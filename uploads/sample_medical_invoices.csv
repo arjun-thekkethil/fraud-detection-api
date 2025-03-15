@@ -1,0 +1,51 @@
+Invoice ID,Patient Name,Claim Amount,Diagnosis,Date of Service,Fraudulent
+ABA30E5A,Dr. Dennis Rogers III,2118.68,Migraine,2023-03-14,0
+3F673309,Denise White,2679.25,Flu,2024-05-30,1
+C61C6414,Tanya Bonilla,4013.62,Migraine,2023-03-13,0
+76B6305B,Victoria Ayala,1001.64,Fracture,2023-10-16,1
+9FAB8DBD,Susan Spencer,4923.37,Asthma,2024-02-15,0
+97B856B8,Nathan Rose,2761.92,Flu,2023-09-20,0
+22B1BEA6,Nathan Young,4365.98,Flu,2023-08-23,0
+8EE529D0,Arthur Knight,3323.26,Fracture,2023-05-06,0
+50E466E5,Mark Kane,4807.28,Asthma,2024-02-23,0
+89D6FF81,Carolyn Anderson,3767.73,Migraine,2024-04-21,0
+84DE254F,Douglas Perez,3294.45,Migraine,2023-08-05,0
+BEC81BE5,Marie Mathews,4623.25,Migraine,2023-08-29,1
+62EBF414,Jessica Cruz,560.41,Diabetes,2024-11-20,0
+8108F894,Garrett Johnson,3938.09,Diabetes,2024-01-28,0
+5EA57360,Jill Mcmahon,3994.86,Diabetes,2024-01-03,0
+6DA1A854,Andrew Villanueva,387.35,Flu,2024-10-15,0
+A9216FE3,Mr. David Myers IV,383.04,Fracture,2024-08-24,1
+411079D9,Jeremiah Jacobs,4656.6,Migraine,2023-09-15,0
+C05E20CE,Laura Lester,1868.7,Diabetes,2023-05-05,0
+8448B4D3,Michael Nicholson,4682.09,Allergy,2024-08-10,0
+36EA0C09,Ebony Williams,1032.28,Asthma,2024-12-06,1
+FBF78BC9,Aaron Mcconnell,4204.42,Hypertension,2023-07-03,0
+4A04BF28,Emily Miller,2908.3,Fracture,2025-01-28,0
+6E8B7135,Meagan Lane,1496.7,Hypertension,2024-04-24,1
+F1815E54,Albert Gonzales,967.35,Migraine,2023-08-20,0
+EE92DC48,Janet Lewis,2083.36,Allergy,2024-07-18,0
+9A6E400B,Timothy Hunt,4524.63,Asthma,2023-11-01,1
+89D39E54,James Butler,2635.39,Asthma,2024-11-13,0
+3D0EA258,Tara Beck,3818.1,Hypertension,2023-03-19,0
+EEB1A1F6,Angela Jackson,313.03,COVID-19,2024-04-20,1
+BA42DDA5,Veronica Sullivan,3131.75,Allergy,2024-02-19,0
+DBA8C8B3,Tanya Cole,3684.54,Diabetes,2023-12-09,1
+5F4B9540,Natalie Raymond,2135.25,Allergy,2024-01-20,0
+DD263070,Derek Mcdonald,3847.86,Diabetes,2024-11-01,0
+0898900C,Joanna Hall,3085.84,Fracture,2023-10-27,0
+BE41A0BA,Heather Robinson,3263.95,Hypertension,2024-06-14,0
+62E92C45,Julie Hines,217.9,COVID-19,2024-01-21,0
+FB28270E,Mr. Aaron Vasquez,2755.67,Asthma,2023-06-22,0
+35999ECE,Samuel Simon,4324.11,COVID-19,2025-02-21,0
+083394C9,Justin Miller,1298.53,Asthma,2024-09-06,0
+8FAAD69E,Daniel Stewart,4218.2,COVID-19,2024-08-07,0
+C3852B4A,Derek Vargas,2241.65,Fracture,2024-04-26,0
+8995EEEE,Ricardo Strickland,3392.47,COVID-19,2024-03-02,0
+5247E805,James Ross,3921.33,Allergy,2023-10-25,0
+35F6F4A2,Ashley Wu,1774.62,Hypertension,2023-06-09,1
+3F136C78,David Rodriguez,3112.56,Hypertension,2023-12-03,0
+3B3B22C1,John Crosby,4266.36,Flu,2023-08-10,0
+6577CB49,Matthew Baker DVM,1473.32,Hypertension,2023-08-21,0
+C9FB3978,Joseph Clark,418.81,COVID-19,2023-11-29,0
+11FE5626,Dalton Vargas,1756.61,Migraine,2024-11-01,0

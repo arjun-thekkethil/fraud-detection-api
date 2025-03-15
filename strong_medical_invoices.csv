@@ -1,0 +1,1001 @@
+Invoice ID,Patient Name,Claim Amount,Diagnosis,Date of Service,Claim Frequency,High Claim,Suspicious Diagnosis,Fraudulent
+LH01561,Deanna White,4364.71,Surgery,2020-07-08,7,0,1,1
+Nf47102,Nicole Patterson,2926.38,Flu,2022-03-24,1,0,0,0
+FU49903,Shane Brewer,2449.21,Migraine,2021-09-15,3,0,0,0
+Ey10402,Timothy Shaw,2532.29,Asthma,2024-12-28,2,0,0,0
+kJ39965,Daniel Cochran,2359.1,Flu,2020-03-26,3,0,0,0
+EB06008,Abigail Hardy,1841.24,Allergy,2022-02-05,2,0,0,0
+vC36434,David Sanchez,1751.66,Cancer Treatment,2020-03-22,10,0,1,1
+ta59577,John Sanders,2888.31,Allergy,2022-02-26,3,0,0,0
+id89226,Ashley Harrell,4886.3,Surgery,2024-03-22,7,0,1,1
+Fu09650,Anna Murray,2692.3,Hypertension,2022-02-09,1,0,0,0
+Vj24902,Lori Murray,2019.18,Allergy,2020-12-28,2,0,0,0
+Mo74592,Todd Anderson,3033.26,Diabetes,2022-01-21,1,0,0,0
+oD26474,Michael Martinez,1996.33,Hypertension,2021-06-17,1,0,0,0
+Iv46408,Ellen Bean,3343.65,Fracture,2020-12-10,5,0,0,1
+cm55235,David Reyes,2197.58,Fracture,2022-09-23,1,0,0,0
+JB96206,Calvin Bryant,2927.37,Hypertension,2021-12-25,1,0,0,0
+Ff70495,Neil Fuller,5766.83,Asthma,2024-02-12,5,0,0,1
+bV23747,Michael Leon,2321.74,Asthma,2022-12-29,3,0,0,0
+tO51602,Charles Hoffman,1790.97,Flu,2021-06-11,3,0,0,0
+ft91334,Megan Walton,1256.94,Diabetes,2022-08-10,2,0,0,0
+gU68191,Cheryl Meyer,1086.68,Migraine,2023-06-09,3,0,0,0
+cC00609,Jeffrey Johnson,5464.14,Migraine,2021-05-11,8,0,0,1
+yw36878,Jennifer Parks,7295.43,Asthma,2024-12-28,7,1,0,1
+LC56498,Rebecca Snow,1407.17,Surgery,2021-04-07,2,0,1,0
+dn98229,Annette Gardner,2671.29,Cancer Treatment,2021-08-24,3,0,1,0
+qe26938,Lynn Flowers,1784.31,Migraine,2022-04-19,2,0,0,0
+Lu52019,Hailey Gibbs,5663.02,COVID-19,2021-06-10,8,0,0,1
+TP89350,Kevin Garcia,1909.57,Migraine,2023-09-11,3,0,0,0
+Ny66940,Jacob Ray,1656.26,Flu,2025-01-07,3,0,0,0
+pF47218,Nicholas Strickland,2240.22,Hypertension,2022-11-05,3,0,0,0
+eK10693,Jimmy Robles,6968.02,Fracture,2023-09-07,10,0,0,1
+kx86570,Krystal Caldwell,5495.19,Fracture,2024-11-05,8,0,0,1
+Tz34481,William Wheeler,5538.87,Surgery,2022-10-31,9,0,1,1
+go06102,Michael Evans,1325.01,Cancer Treatment,2021-10-05,2,0,1,0
+uo55755,Jennifer Gonzalez,1284.13,Diabetes,2024-02-16,1,0,0,0
+Wu35194,Rhonda Phillips,1077.47,Hypertension,2022-10-23,3,0,0,0
+Rn93137,Alicia Mejia,1174.05,Asthma,2024-12-02,3,0,0,0
+kS00599,Tina Campbell,5655.08,Cancer Treatment,2025-03-04,9,0,1,1
+Kh44776,Michael Waters,7822.26,Surgery,2023-08-23,4,1,1,1
+mN86298,Kevin Scott,2546.61,Flu,2020-04-03,2,0,0,0
+lw15088,Wesley Bartlett,1359.02,Hypertension,2022-02-21,3,0,0,0
+NR65044,Debra Keller,2265.74,COVID-19,2021-11-30,2,0,0,0
+YT86608,Adam Wang,2964.24,Fracture,2024-04-16,1,0,0,0
+pN98746,Brandon Hutchinson,9148.45,Surgery,2022-12-30,4,1,1,1
+hr84069,Jeffrey Armstrong,4202.54,Cancer Treatment,2024-07-23,4,0,1,1
+Xd13564,Michele Wilson,5722.57,Allergy,2021-10-30,5,0,0,1
+Yc74166,Jo Romero,2420.77,COVID-19,2020-05-02,1,0,0,0
+lJ23776,Christopher Hebert,883.48,Surgery,2022-11-18,1,0,1,0
+vr39244,Kimberly Townsend,2117.28,Surgery,2020-06-25,2,0,1,0
+sY65593,Erin Sullivan,3457.1,COVID-19,2022-02-05,7,0,0,1
+Hb39380,Carrie Gibson,6850.27,Asthma,2025-02-27,8,0,0,1
+wo65747,Jeff Schwartz,3404.01,Flu,2024-10-27,4,0,0,1
+sN30746,Kenneth Day,3660.77,Cancer Treatment,2022-03-14,6,0,1,1
+Vo13772,Jesus Bradley,1352.76,Fracture,2021-06-19,3,0,0,0
+fK29999,Gregory Lewis,4895.24,Cancer Treatment,2021-11-02,9,0,1,1
+UR50417,Wayne Watts,7021.87,Allergy,2024-12-23,8,0,0,1
+rE92550,Cynthia Gonzales,5495.41,Cancer Treatment,2025-01-25,8,0,1,1
+HB89508,Robert Gay,2609.35,Fracture,2021-04-28,2,0,0,0
+QY24236,Jonathan Lewis,1244.63,Fracture,2023-06-14,2,0,0,0
+eC79157,Kimberly Hart,4180.16,Surgery,2020-05-29,6,0,1,1
+SK77768,Katrina Brewer,211.45,Hypertension,2020-08-30,2,0,0,0
+rI69799,Janice Hudson,1202.36,Hypertension,2023-04-14,3,0,0,0
+Pg20604,Karen Turner,5318.32,Cancer Treatment,2022-05-03,9,0,1,1
+So92016,Brandy Hess,2817.4,Cancer Treatment,2023-03-08,3,0,1,0
+RD69444,Richard Mccullough,4293.56,Surgery,2024-02-09,8,0,1,1
+Wo32569,Brittany Reed,5600.35,Diabetes,2020-10-27,9,0,0,1
+XT24108,Joseph Parrish,3484.53,COVID-19,2021-10-27,2,0,0,0
+ij02446,Sandra Lewis,2454.01,Migraine,2021-05-04,2,0,0,0
+xD38253,Rachel Mcneil,2397.16,Migraine,2024-11-16,2,0,0,0
+KZ98819,Courtney Nelson,1454.86,Diabetes,2024-12-02,2,0,0,0
+nu25572,Courtney Luna,2579.97,Hypertension,2025-02-27,1,0,0,0
+Ei96576,Ryan Richmond,3195.0,COVID-19,2022-09-21,2,0,0,0
+Xz36321,Kenneth Mcguire,6569.08,Fracture,2023-02-22,7,0,0,1
+ZH71627,David Jones,4511.46,Cancer Treatment,2024-06-28,7,0,1,1
+Wl60572,Randy Walton,5512.91,Diabetes,2023-02-28,8,0,0,1
+Bx52593,Sarah Austin,2797.31,Fracture,2020-07-27,2,0,0,0
+JE24520,Natalie Moore,4912.25,Cancer Treatment,2020-06-26,8,0,1,1
+Px44835,William Barton,4148.18,Migraine,2021-05-21,10,0,0,1
+Ag23735,Kevin Scott,3260.77,Flu,2020-12-18,1,0,0,0
+Kk17610,John Gilmore,5179.56,Cancer Treatment,2025-01-08,10,0,1,1
+eu56586,Stacy Robbins,2671.75,Migraine,2024-02-19,3,0,0,0
+IJ36566,Michael Randolph,5622.26,Cancer Treatment,2020-10-21,8,0,1,1
+mE83349,Kevin Riley,6536.73,Cancer Treatment,2023-04-25,5,0,1,1
+TJ88909,Rebecca Conway,4913.72,Surgery,2023-01-30,10,0,1,1
+Fi63422,Carol Ryan,712.21,Hypertension,2023-12-11,2,0,0,0
+Fq71986,Leonard Pitts,1715.75,Surgery,2020-07-08,3,0,1,0
+oD21895,Martha West,5820.4,Cancer Treatment,2023-08-15,9,0,1,1
+ph30346,Caitlin Murphy,8143.66,Cancer Treatment,2020-09-04,4,1,1,1
+Xu34566,Donna Wells,2334.46,Cancer Treatment,2021-12-04,3,0,1,0
+AB98506,Amy Walters,2843.43,Hypertension,2025-01-12,3,0,0,0
+PB25844,Samuel Garcia,5233.89,Cancer Treatment,2021-06-13,9,0,1,1
+gC71692,Mark Patel,2408.34,Asthma,2020-07-19,1,0,0,0
+Xr14278,Linda Roach,2324.63,COVID-19,2022-02-02,2,0,0,0
+aK09565,Bryan Browning,2922.71,COVID-19,2021-11-17,8,0,0,1
+vm06505,Troy Callahan,2295.43,Flu,2021-10-29,1,0,0,0
+LG23585,Jerry Clark,399.64,COVID-19,2024-07-29,2,0,0,0
+qd21442,Patrick Hines,6105.45,COVID-19,2024-08-19,8,0,0,1
+hy83221,James Walker,5017.43,Surgery,2021-04-24,10,0,1,1
+pN11872,Clifford Mitchell,3427.36,Asthma,2020-06-23,10,0,0,1
+TR07379,Lauren Rodriguez,2934.98,Cancer Treatment,2021-10-02,8,0,1,1
+Co70069,Danielle Curtis,3196.73,Cancer Treatment,2021-06-05,1,0,1,0
+uC15251,Brian Bates,1623.95,Surgery,2023-11-17,1,0,1,0
+nQ98035,Ryan Baker,7225.12,COVID-19,2022-01-06,5,1,0,1
+bj18280,Anthony Summers,2492.35,Fracture,2021-04-22,3,0,0,0
+do41178,Michelle Santiago,1606.14,Fracture,2021-07-30,3,0,0,0
+kx00594,Thomas Smith,2450.65,Diabetes,2021-03-08,3,0,0,0
+za54778,Mary May,2773.83,Cancer Treatment,2020-04-15,2,0,1,0
+TL73639,Kelly Briggs,6786.27,Surgery,2020-11-25,8,0,1,1
+vO19770,Whitney Wood MD,6422.43,Surgery,2022-09-16,7,0,1,1
+XY03093,Linda Moore,1540.42,Diabetes,2024-07-08,1,0,0,0
+Ll38576,Jill Hamilton,1480.36,Fracture,2020-05-21,2,0,0,0
+jA27987,Robert Molina,3716.17,Diabetes,2023-04-23,1,0,0,0
+fs24022,Miguel Leblanc,1908.28,Asthma,2024-04-13,2,0,0,0
+lc74654,Robert Black,7065.32,Cancer Treatment,2025-02-26,8,1,1,1
+eg89510,Richard Miller,981.05,Migraine,2022-06-04,3,0,0,0
+pT53227,Derrick Hoffman,4442.54,Fracture,2021-07-14,9,0,0,1
+oH52810,Marc Beltran,2498.12,Allergy,2024-07-25,2,0,0,0
+rB12284,Dawn Watts,6988.03,Fracture,2023-09-11,10,0,0,1
+YH36037,Tina Smith,1998.77,Fracture,2022-08-14,3,0,0,0
+to43884,Ronald Cooper,6554.3,Cancer Treatment,2020-10-23,10,0,1,1
+RH44980,Sarah Dunn,1681.06,Fracture,2021-02-08,3,0,0,0
+Ee11014,Donna Green,2457.45,Surgery,2022-01-26,1,0,1,0
+Fo47415,Micheal Smith,1122.21,Migraine,2021-03-12,3,0,0,0
+Qg13538,Jeffrey Zamora DDS,1611.02,Surgery,2023-06-07,2,0,1,0
+eq77425,Melissa Johnson,1184.51,Flu,2021-01-02,2,0,0,0
+Rr75452,Cynthia Franklin,7142.57,Surgery,2020-04-14,7,1,1,1
+MM26752,Ashley Clark,3073.7,Hypertension,2021-02-07,1,0,0,0
+uc37278,Leah Davis,1797.49,COVID-19,2025-03-09,2,0,0,0
+hX24806,Donna Howell,6938.4,Cancer Treatment,2020-05-02,9,0,1,1
+LK14508,Kristina Willis,5273.89,Surgery,2020-04-22,7,0,1,1
+xF05365,Douglas Martinez,2347.88,Cancer Treatment,2021-02-05,6,0,1,1
+xR88559,Erica Strickland,5597.83,Cancer Treatment,2023-03-16,4,0,1,1
+XH14654,Matthew Miller,4330.32,Surgery,2021-05-27,9,0,1,1
+nm60211,Taylor Logan,3177.05,Allergy,2022-08-16,8,0,0,1
+bm36808,Carrie Martinez,2915.39,Surgery,2020-06-19,2,0,1,0
+ZO18485,Carrie Serrano,2977.55,COVID-19,2024-01-15,1,0,0,0
+Ke38232,Miss Lori Frederick MD,2892.41,Migraine,2022-10-13,1,0,0,0
+no96878,Sarah Castro,4096.44,Surgery,2024-09-15,10,0,1,1
+lX28277,Kevin Nash,1523.62,Surgery,2022-02-01,1,0,1,0
+MW91014,Sandra Becker,2461.11,Migraine,2022-04-21,2,0,0,0
+tM16031,Crystal Wright,2444.16,Surgery,2024-07-14,10,0,1,1
+ID34483,Randy Lee,2950.78,Surgery,2021-07-17,2,0,1,0
+Ih58202,Mr. Steven Ross DDS,5018.8,Cancer Treatment,2023-07-02,10,0,1,1
+PE51422,Carla Ayala,7469.72,Surgery,2022-12-29,4,1,1,1
+MC16993,Jennifer Davies,6716.79,Surgery,2020-11-30,7,0,1,1
+qM87627,Jessica Flynn,1361.9,Hypertension,2024-01-16,1,0,0,0
+Lx19379,Lawrence Roach,6505.83,Cancer Treatment,2024-03-04,8,0,1,1
+Gd08368,Gregory Huynh,5036.46,COVID-19,2023-01-03,8,0,0,1
+zd20381,Jamie Li,1228.79,Migraine,2020-10-22,3,0,0,0
+aJ91316,Timothy Diaz,3099.27,Cancer Treatment,2020-12-08,9,0,1,1
+VI71785,Candace Chase,7388.23,Migraine,2020-06-05,7,1,0,1
+xK83992,David Huber,3527.54,Fracture,2023-08-19,1,0,0,0
+Tt80154,Jonathan Montes,3871.28,Cancer Treatment,2021-07-08,6,0,1,1
+lh19707,James Holloway,6903.03,Surgery,2023-08-15,10,0,1,1
+xC64168,Daniel Berg,5077.78,Surgery,2021-05-19,5,0,1,1
+fQ33340,Edward Wilkinson,1829.76,Flu,2023-08-25,2,0,0,0
+Pg21701,Mark Moss,1822.81,Asthma,2025-03-08,3,0,0,0
+vn31063,Jessica Dorsey,1131.98,COVID-19,2024-01-21,2,0,0,0
+pD99137,Stephen Rodriguez,4290.47,Surgery,2024-12-23,4,0,1,1
+fa69762,Beverly Fisher,6701.84,Surgery,2023-01-14,5,0,1,1
+go43890,Patricia Harvey,1744.32,Flu,2022-02-03,3,0,0,0
+bj91123,Marc Klein,1579.0,Diabetes,2021-03-27,1,0,0,0
+KB47599,Nathaniel Scott,1904.78,Flu,2023-07-09,2,0,0,0
+uu64223,Kristin Briggs,3371.5,Migraine,2022-05-09,3,0,0,0
+Md91385,Daniel Smith,5721.85,Asthma,2024-06-04,9,0,0,1
+ky17802,Melissa Cook,730.18,Cancer Treatment,2025-02-10,3,0,1,0
+am09245,Donna Long,2177.82,Flu,2024-10-16,3,0,0,0
+HE75410,William Morrison,7574.31,Fracture,2024-04-30,7,1,0,1
+KH94454,Christine Wyatt,2915.99,Migraine,2021-08-16,6,0,0,1
+xm90171,Emily Barnes,2107.8,Surgery,2023-01-12,9,0,1,1
+Ug09928,Miss Mary Campbell,2122.4,Allergy,2024-03-18,1,0,0,0
+jb91982,Jasmine Glenn PhD,5288.17,Cancer Treatment,2020-04-10,5,0,1,1
+JV03582,Jimmy Curtis,1084.43,Flu,2022-11-25,1,0,0,0
+oM82962,Jordan Martinez,2011.97,Surgery,2020-11-21,4,0,1,1
+cX58035,Matthew King,7448.53,Cancer Treatment,2021-11-04,4,1,1,1
+Md24387,Peter Taylor MD,2389.86,Flu,2020-04-25,1,0,0,0
+fG25637,Jared Marshall,3821.32,Cancer Treatment,2023-02-15,5,0,1,1
+GV27836,Victoria Collins,2228.88,Fracture,2023-04-11,2,0,0,0
+qL20633,Anna Silva,4751.58,Flu,2024-08-11,4,0,0,1
+VO14678,Thomas Flores,6863.75,Migraine,2021-05-16,8,0,0,1
+US65341,Latasha Miller,4180.54,Allergy,2023-05-25,9,0,0,1
+TI03195,Rachael Duke,4309.53,Fracture,2020-07-19,5,0,0,1
+YI84371,Reginald Holder,3831.38,Cancer Treatment,2024-05-04,6,0,1,1
+kA58363,Michelle Thomas,2768.39,Flu,2020-09-11,2,0,0,0
+WI67012,Phillip Oneill,3429.38,Asthma,2024-05-29,2,0,0,0
+Az40995,Kimberly Gonzalez,6548.69,Cancer Treatment,2021-04-22,4,0,1,1
+CA28577,Nicole Morales,2051.0,Hypertension,2025-01-25,1,0,0,0
+Fy33103,Tiffany Farmer,1479.5,Fracture,2022-07-02,3,0,0,0
+Zy42606,Casey Frazier,4198.17,Surgery,2021-11-05,4,0,1,1
+iJ13901,Chelsea Jimenez,1396.24,Asthma,2020-09-11,3,0,0,0
+Lz17733,Andre Brown,5252.31,Surgery,2023-11-10,4,0,1,1
+jR69573,Kevin Fleming,1206.46,Migraine,2024-02-14,3,0,0,0
+rb03411,Debbie Simmons,4255.9,Allergy,2020-05-06,8,0,0,1
+KK37172,Michelle Black,1209.78,Flu,2021-05-27,1,0,0,0
+xo04547,Kimberly Tate,3039.55,COVID-19,2024-08-04,3,0,0,0
+Ka81709,Ronald Lee,4137.99,Flu,2021-08-10,4,0,0,1
+Te85514,Kimberly Nunez,3441.95,Surgery,2023-04-04,9,0,1,1
+ws58263,Zachary Young,1867.29,Diabetes,2022-08-20,2,0,0,0
+RM77133,Nancy Henry,-227.69,Diabetes,2022-06-27,3,0,0,0
+Yd75097,Melissa Frost,4881.97,Cancer Treatment,2024-05-28,7,0,1,1
+uV31364,Jasmine Lucas,1316.19,Allergy,2024-07-22,1,0,0,0
+ET54402,Jessica Munoz,1617.96,Hypertension,2022-01-04,2,0,0,0
+GK72299,Erin Bailey,1452.49,Fracture,2021-04-25,2,0,0,0
+Aw68433,Courtney Dunn,1433.02,Cancer Treatment,2025-02-28,5,0,1,1
+XT68538,Yolanda Adams,5107.78,Asthma,2023-09-22,5,0,0,1
+NJ69304,Joshua Vaughn,4299.37,Allergy,2020-05-21,5,0,0,1
+cY96617,Curtis Romero,2510.28,Flu,2022-02-02,3,0,0,0
+qW82840,Megan Anderson,2837.21,Migraine,2021-12-04,2,0,0,0
+Kb25668,Beth Woodward,1873.79,Hypertension,2024-09-04,2,0,0,0
+Ta03055,Melissa Martin MD,5291.13,Surgery,2023-09-19,4,0,1,1
+nN93345,Wayne Miller,3197.22,Cancer Treatment,2020-12-08,9,0,1,1
+Ic77485,James Wright,5950.66,Surgery,2020-04-12,4,0,1,1
+Us26653,Timothy Vance,3248.69,Diabetes,2024-03-15,10,0,0,1
+dX68082,Crystal Parker,6933.17,Asthma,2020-07-16,10,0,0,1
+rV37459,Troy Myers,6597.36,Cancer Treatment,2022-12-24,4,0,1,1
+Eq94230,James Houston,3237.49,Surgery,2020-08-27,3,0,1,0
+ZE47320,Veronica Johnson,3092.93,Allergy,2020-07-19,2,0,0,0
+mX07077,Donna Williams,1548.6,Hypertension,2020-07-18,3,0,0,0
+Hj91076,Laura Rojas,1150.96,Hypertension,2020-09-05,2,0,0,0
+ah74786,Traci Lewis,1568.17,Hypertension,2024-10-03,2,0,0,0
+IA34555,Lisa Harris,1565.0,COVID-19,2022-10-23,1,0,0,0
+SR54563,Andrew Hall,2736.83,Asthma,2020-12-07,3,0,0,0
+fn54458,Steven Willis,2956.23,Surgery,2025-02-09,1,0,1,0
+PB90542,Gregory Ross,3666.18,Fracture,2025-02-24,1,0,0,0
+mN06756,Glenda Nguyen,1766.3,Hypertension,2024-11-04,3,0,0,0
+Sw29701,Christopher Hensley,1521.59,Migraine,2022-11-29,3,0,0,0
+uB75324,Autumn Rogers,7993.12,Migraine,2024-02-10,6,1,0,1
+gJ98299,Marcus Martin,3170.66,Diabetes,2024-10-20,3,0,0,0
+Cy55196,Ryan Newman,7304.24,Surgery,2021-01-29,10,1,1,1
+RY64093,James Smith,516.29,Migraine,2020-05-03,2,0,0,0
+jR43811,Gary Torres,4843.92,Cancer Treatment,2023-08-29,5,0,1,1
+VS33371,Jeffrey Mendez,5124.46,Cancer Treatment,2023-01-26,8,0,1,1
+GM60187,Aaron Wright,4039.35,Cancer Treatment,2023-01-27,5,0,1,1
+Qg56869,Jeremy Obrien,1486.02,Surgery,2022-08-06,1,0,1,0
+yz10197,Nancy Lloyd,4433.1,Cancer Treatment,2021-05-25,4,0,1,1
+Wb59380,Joseph Harris,3293.13,Cancer Treatment,2021-07-29,1,0,1,0
+pu58926,Lori Riley,6407.1,Cancer Treatment,2022-04-23,5,0,1,1
+LX83594,Christopher Romero,3112.77,COVID-19,2021-01-04,2,0,0,0
+dC22775,Derrick Hensley,1422.17,Hypertension,2021-06-22,2,0,0,0
+LD77209,Timothy Edwards,1784.08,Migraine,2021-03-14,4,0,0,1
+DM71957,Charles Shepard,2244.13,Fracture,2023-06-26,3,0,0,0
+yG60949,Margaret Henry,3900.3,Hypertension,2020-10-05,9,0,0,1
+ZT40377,Jill Johnson,1561.43,Fracture,2021-07-08,2,0,0,0
+CX78476,Johnny Zavala MD,4386.6,Surgery,2022-11-19,6,0,1,1
+ro88371,David Thomas,4071.53,Flu,2021-04-15,9,0,0,1
+ZQ72847,Sheila Johnson,5787.47,Cancer Treatment,2024-01-17,7,0,1,1
+BG95352,Jeffrey Martin,1491.13,Allergy,2020-08-25,3,0,0,0
+Zf41542,Michele Farmer,4140.3,Surgery,2023-06-05,10,0,1,1
+Od33009,Rebecca Gregory,5364.84,Surgery,2020-12-13,9,0,1,1
+jU78480,Katherine Jackson,7426.41,Cancer Treatment,2020-11-08,9,1,1,1
+Bn82998,Jenny Booth,4377.3,Surgery,2023-11-28,10,0,1,1
+Yg17565,Margaret Smith,3531.52,Cancer Treatment,2024-05-02,1,0,1,0
+Lb30904,Lindsey Ward,6357.03,Surgery,2021-11-27,7,0,1,1
+It70860,Mitchell Mosley,3024.08,Asthma,2024-07-24,7,0,0,1
+yA31219,David Harrell,2743.36,Surgery,2020-09-02,1,0,1,0
+WC58903,Michael Bautista,2970.64,Surgery,2024-09-10,2,0,1,0
+OF37411,Grant Schaefer,2012.28,Asthma,2023-08-02,3,0,0,0
+iw54496,Chad Jones,4567.06,Surgery,2023-11-16,8,0,1,1
+Zy34557,Joseph Brown,6635.75,Surgery,2022-10-22,10,0,1,1
+Tr81421,Tina Johnson,4719.1,Asthma,2020-10-02,7,0,0,1
+Uq89672,Zachary Bush,1189.95,Surgery,2020-09-07,6,0,1,1
+Ho63534,Jessica Le,2264.6,COVID-19,2023-12-19,1,0,0,0
+qx35993,Terry Vazquez,2649.22,Asthma,2020-05-10,2,0,0,0
+rk96399,Brian Ruiz,4603.38,Cancer Treatment,2024-12-28,8,0,1,1
+Wv88168,Virginia Vega,1223.07,Surgery,2024-07-25,1,0,1,0
+hV29384,Zoe Page,5643.83,Surgery,2025-01-03,10,0,1,1
+lY70000,Gail Morris,2056.63,COVID-19,2025-02-03,3,0,0,0
+TY11542,Allison Ramirez,5731.38,COVID-19,2024-01-16,8,0,0,1
+bM01261,Hannah Lopez,5888.05,Cancer Treatment,2022-03-10,10,0,1,1
+Ov37808,Michael Phillips,1414.51,Hypertension,2025-01-17,3,0,0,0
+xX41991,Marcus Martinez,3058.74,Cancer Treatment,2022-05-13,4,0,1,1
+Na42657,Bradley Hunt,1033.92,Migraine,2024-03-24,1,0,0,0
+kW35861,Russell Alexander,5467.18,Cancer Treatment,2021-10-24,10,0,1,1
+Ln53683,Michael Hancock,5451.62,Cancer Treatment,2021-02-06,7,0,1,1
+ot12616,Gary Nicholson,1210.33,Cancer Treatment,2022-03-28,2,0,1,0
+sN26093,Patrick Cardenas,4423.19,Cancer Treatment,2025-03-12,4,0,1,1
+YO52014,Courtney Williams,3350.56,Flu,2021-03-31,2,0,0,0
+rB86686,Daniel Contreras,5464.94,Cancer Treatment,2024-09-19,6,0,1,1
+He21678,Isabel Torres,1764.43,Surgery,2021-11-02,3,0,1,0
+Gl66468,Amber Day,1857.46,Diabetes,2022-01-18,1,0,0,0
+qB81843,John Coffey,2497.08,Surgery,2023-02-27,2,0,1,0
+XR90304,Jacqueline Lewis,5178.94,Cancer Treatment,2024-02-20,7,0,1,1
+PY52454,James Oneill,1870.07,COVID-19,2022-04-08,3,0,0,0
+YL88025,Joshua Weaver,2146.57,Surgery,2022-10-15,10,0,1,1
+JG71056,Tina Jones,7253.27,Surgery,2021-05-22,9,1,1,1
+aS55398,Christopher Moore,5001.77,Cancer Treatment,2024-05-20,9,0,1,1
+XT39700,Joshua Christian,4532.89,Cancer Treatment,2021-09-27,4,0,1,1
+Ur12329,Roy Scott,2351.3,Surgery,2021-01-13,1,0,1,0
+sM74022,Michael Allison,997.41,Hypertension,2021-02-14,1,0,0,0
+lu69025,Anthony Johnson,2807.65,Allergy,2024-05-01,2,0,0,0
+Az31524,Megan Reed,5548.22,Cancer Treatment,2023-12-04,9,0,1,1
+di76173,Elizabeth House,7399.58,Cancer Treatment,2021-11-24,4,1,1,1
+ni90379,Nicholas Bryant,4108.92,Allergy,2024-03-08,10,0,0,1
+uJ82903,Nicholas Nelson,1948.99,Surgery,2023-08-17,2,0,1,0
+UE08457,Gabrielle Gordon,2075.68,Hypertension,2021-04-13,2,0,0,0
+Ch37946,Misty Leon,2830.01,Diabetes,2024-10-20,2,0,0,0
+Dz33183,Shawn Silva,6356.39,Migraine,2024-01-11,4,0,0,1
+gx93991,Mr. Sean Newton,5391.54,Surgery,2024-03-26,5,0,1,1
+AO69244,Claudia Thompson,8432.0,Diabetes,2023-07-18,4,1,0,1
+MF38005,Kevin Peters,3598.9,COVID-19,2020-10-04,1,0,0,0
+es87623,Paige Robinson,947.39,Fracture,2021-03-20,1,0,0,0
+os98258,Lindsey Cortez,2049.72,Flu,2023-04-06,1,0,0,0
+IF46289,Marcia Hernandez,7336.77,Surgery,2021-09-11,8,1,1,1
+vJ82001,Christopher Sims,4498.88,Cancer Treatment,2022-11-22,6,0,1,1
+ud03678,Jorge Peterson,2403.41,Hypertension,2022-11-01,3,0,0,0
+mn23624,Brian Martinez,4066.43,Cancer Treatment,2020-05-23,8,0,1,1
+Tu10077,Kayla Gray,1445.97,Fracture,2020-09-10,2,0,0,0
+VT90854,Jody Rios,1104.79,Fracture,2020-04-04,2,0,0,0
+YT33093,Jennifer Green,7500.51,Surgery,2021-01-22,9,1,1,1
+hR40018,Jeffery Nash,277.22,Fracture,2023-04-30,2,0,0,0
+NG62839,Gabriel Townsend,1189.69,Asthma,2022-09-14,2,0,0,0
+HE34930,Kimberly Perez,1820.97,Diabetes,2020-05-11,1,0,0,0
+KL37048,Leslie Abbott,5363.94,Cancer Treatment,2024-01-01,7,0,1,1
+dQ11001,Chad Lamb,7588.08,Cancer Treatment,2024-02-20,6,1,1,1
+ah21313,Gary Martin,1604.39,Asthma,2024-01-28,1,0,0,0
+Mb92533,Alyssa Church,1678.03,Cancer Treatment,2021-09-30,3,0,1,0
+MI58623,Richard Fowler,5811.11,Cancer Treatment,2024-04-17,6,0,1,1
+ny65221,Randall Tucker,4005.16,Surgery,2024-11-13,6,0,1,1
+ya50408,Evan Williams,3429.26,COVID-19,2024-08-22,7,0,0,1
+rv94761,Derrick Brandt,6817.21,Flu,2023-12-16,8,0,0,1
+DT79303,Amanda Stewart,4481.11,Surgery,2024-09-20,9,0,1,1
+TJ20967,Robert Bradford,1477.16,Diabetes,2020-07-16,2,0,0,0
+pt65249,Brett Jones,2910.44,Asthma,2022-02-03,2,0,0,0
+HS66184,Cassandra Dudley,5410.47,Surgery,2021-05-01,5,0,1,1
+eU05781,Daniel Mann,4615.75,Cancer Treatment,2022-02-19,9,0,1,1
+nm48017,Justin Avila,1627.54,Allergy,2024-12-18,2,0,0,0
+nP88541,Troy Downs,2907.02,Flu,2021-10-20,3,0,0,0
+rn07502,Jonathan Thomas,6947.38,Cancer Treatment,2021-04-23,5,0,1,1
+Sb76923,Jessica Graves,4401.08,Surgery,2021-02-23,8,0,1,1
+ts69036,Anna Cannon,1446.39,Flu,2021-12-22,3,0,0,0
+Pp47968,Curtis Johnson,2455.22,Asthma,2023-07-23,3,0,0,0
+LH41336,Aaron Cox,6871.59,Cancer Treatment,2022-11-13,10,0,1,1
+VK78313,Ashley Ponce,6036.28,Allergy,2021-07-23,6,0,0,1
+lp49753,Jason Santiago,4921.57,Cancer Treatment,2021-09-03,5,0,1,1
+vc63349,Franklin Benson,4836.72,Surgery,2024-04-30,8,0,1,1
+BI69430,Christopher Tucker,6968.92,Cancer Treatment,2021-04-19,5,0,1,1
+PQ12286,Troy Hebert,4994.35,Migraine,2024-04-12,7,0,0,1
+kH40718,Diamond Bailey,2282.52,Surgery,2024-02-12,2,0,1,0
+vX77052,Oscar Murillo,4801.42,Migraine,2023-02-28,9,0,0,1
+mN25497,Wanda Burgess,6053.18,Cancer Treatment,2023-08-09,7,0,1,1
+kg27554,Jennifer Wright,560.34,Allergy,2025-01-14,4,0,0,1
+me30585,Sylvia Gray,3008.53,Cancer Treatment,2020-07-12,1,0,1,0
+UN11209,Christina Walker,2809.92,Hypertension,2022-10-16,3,0,0,0
+Jn46800,Alfred Greer,7636.77,Surgery,2021-03-12,8,1,1,1
+pH74341,Alexis Webster,1408.03,Fracture,2023-10-13,3,0,0,0
+CN64500,Michelle Anderson,7143.0,Flu,2022-12-25,9,1,0,1
+aY24807,Cristina Carter,723.04,Flu,2022-09-07,3,0,0,0
+TW41192,Eric Benton,7555.9,Cancer Treatment,2023-04-28,10,1,1,1
+aJ43576,Gregory Huang,2298.7,Migraine,2023-03-13,1,0,0,0
+eM50476,Brandon Hamilton,5543.75,Cancer Treatment,2022-09-25,9,0,1,1
+sG35826,Miranda Sanders,5118.33,Allergy,2022-10-06,7,0,0,1
+ei09860,Jordan Vargas,5762.61,Surgery,2022-03-30,4,0,1,1
+Ct06264,Shane Trujillo,5593.09,Cancer Treatment,2022-11-30,8,0,1,1
+lr71783,Debra Smith DDS,5671.67,Surgery,2023-03-06,8,0,1,1
+Qx98083,Sandra Johnson,4577.43,Cancer Treatment,2024-11-20,5,0,1,1
+Td99940,Tony Clark,2617.45,Asthma,2024-03-08,2,0,0,0
+rY46508,John Torres,1674.09,Surgery,2022-02-14,3,0,1,0
+ve82674,Daniel Duncan,2381.18,Surgery,2023-08-28,1,0,1,0
+Kn24497,Dawn Barrett,1851.86,Flu,2022-05-06,1,0,0,0
+aN04176,John Moore,2213.92,Cancer Treatment,2024-08-21,2,0,1,0
+aA56754,Thomas Gray,3532.3,COVID-19,2023-05-09,1,0,0,0
+Cj24350,Julian Burnett,8530.52,Cancer Treatment,2022-11-20,4,1,1,1
+ge49066,Heather Peterson,1584.79,Surgery,2024-05-26,2,0,1,0
+be32974,Daniel Johnson,5087.51,Diabetes,2021-07-17,4,0,0,1
+mn65097,Michael Gibson,6291.03,Surgery,2021-12-06,4,0,1,1
+mw97707,Jennifer Carpenter,2953.26,Asthma,2024-01-17,2,0,0,0
+zv59741,Joshua Mays,4002.09,Cancer Treatment,2024-08-20,9,0,1,1
+Zh87543,Nicholas Wagner,1782.58,Allergy,2024-06-07,2,0,0,0
+Ap46483,Victoria Collins,3771.73,Surgery,2021-10-20,6,0,1,1
+BE44902,Thomas Wheeler,4542.62,Surgery,2024-04-22,6,0,1,1
+Ts77000,Douglas Mueller,4849.41,Surgery,2020-08-03,10,0,1,1
+zT78399,Kerry Allen,4611.31,Cancer Treatment,2023-12-08,8,0,1,1
+Yw11462,Trevor Bradley,530.66,COVID-19,2023-07-26,1,0,0,0
+FN76493,Richard Gomez,2214.91,COVID-19,2020-10-10,1,0,0,0
+dJ83808,Tommy Todd,5536.38,Migraine,2023-03-07,4,0,0,1
+oz74527,Ryan Smith,6763.11,Flu,2022-05-06,9,0,0,1
+Io69403,Tammy Miller,8009.55,Surgery,2020-04-07,4,1,1,1
+td82832,April May,2430.6,Surgery,2021-07-03,9,0,1,1
+JE89567,Sheri Nguyen,2167.64,Asthma,2020-06-29,3,0,0,0
+vS05385,Rhonda Vega,3715.5,Allergy,2024-04-30,9,0,0,1
+pJ14964,Matthew Willis,2294.81,Migraine,2021-06-04,2,0,0,0
+SO90068,Jacqueline Bridges,3018.32,Diabetes,2021-03-24,1,0,0,0
+kv86788,Jessica Barron,7080.65,Migraine,2021-04-05,10,1,0,1
+oS01158,Daniel Wall,6717.84,Surgery,2022-12-29,4,0,1,1
+zG63652,Arthur Sanchez,3042.81,Allergy,2020-12-10,1,0,0,0
+jU16067,Kenneth Mcconnell,1120.42,Asthma,2023-05-15,1,0,0,0
+gI29153,Sharon Liu,2293.25,Cancer Treatment,2024-02-26,9,0,1,1
+cf42492,Felicia Gomez,1559.09,Fracture,2022-09-04,2,0,0,0
+kz25568,Lori Mills,1450.07,Fracture,2021-07-03,1,0,0,0
+nv94401,Teresa Munoz,3356.73,Surgery,2024-09-28,6,0,1,1
+vw36946,Juan Adams,6625.96,Cancer Treatment,2022-03-29,6,0,1,1
+FT48068,Danielle Jones,1929.59,Fracture,2023-02-07,1,0,0,0
+WC97450,Nancy Shelton,5407.82,Flu,2021-11-29,10,0,0,1
+Pp42804,Jake Alvarez,2814.85,Surgery,2024-11-30,3,0,1,0
+Lj46682,William Brown,4491.2,Cancer Treatment,2021-05-15,8,0,1,1
+vW04619,Mary Bryant,4095.3,Allergy,2024-07-20,8,0,0,1
+rQ26977,Gina Stevens,3817.08,Asthma,2020-06-02,4,0,0,1
+rf79641,Kelsey Johnson,1332.64,Migraine,2021-04-06,3,0,0,0
+mN74798,John Middleton,8070.85,Diabetes,2023-03-09,10,1,0,1
+tM47653,Chad Berg,5417.21,Cancer Treatment,2024-05-19,5,0,1,1
+Uy07035,Jeffrey Martin,3397.58,Hypertension,2024-06-16,1,0,0,0
+bY89226,Laura Perez,4803.35,Surgery,2021-10-24,7,0,1,1
+bE90710,Ryan Johnson,2393.69,Cancer Treatment,2020-09-07,2,0,1,0
+qL45636,Michael Daniel,4557.99,Diabetes,2021-10-24,7,0,0,1
+jk48154,Andrew Jones,1012.29,Surgery,2023-09-08,3,0,1,0
+cP69202,Melissa Rodgers,5609.65,Cancer Treatment,2022-01-28,8,0,1,1
+OB06855,Jennifer Adkins,5406.2,Cancer Treatment,2020-11-02,9,0,1,1
+Ef15737,Michelle Moore,3919.81,Hypertension,2022-10-09,1,0,0,0
+ek89524,Alexander Khan,5273.85,Cancer Treatment,2024-10-05,6,0,1,1
+ir81492,Nicole Singleton,2347.07,Cancer Treatment,2020-03-23,4,0,1,1
+Uf11893,Devin Christian,2161.01,Flu,2022-09-29,1,0,0,0
+gW11800,Marie Lester,6011.19,Surgery,2022-12-22,5,0,1,1
+dz33702,Lisa Decker,2077.15,Allergy,2025-01-02,3,0,0,0
+dX97938,Rebecca Goodwin,5819.93,Surgery,2021-09-07,6,0,1,1
+HL91404,David Ho,5126.06,Surgery,2021-11-07,5,0,1,1
+yH93773,Bruce White,5165.37,Diabetes,2020-12-21,4,0,0,1
+TF97258,Rebecca Hunter,1847.46,Diabetes,2021-03-20,3,0,0,0
+KX22480,Megan Benson,5788.33,Cancer Treatment,2021-07-30,10,0,1,1
+KZ47190,Amy Carroll,3194.19,Surgery,2022-07-18,8,0,1,1
+hJ46034,Linda Bryant,4309.97,Surgery,2022-07-03,7,0,1,1
+zv01333,James Ramsey,6852.62,Cancer Treatment,2024-05-22,10,0,1,1
+FC99704,Andrea Martin,4886.3,Flu,2022-11-30,4,0,0,1
+ua14862,Elizabeth Andrade,4305.39,Cancer Treatment,2020-09-06,9,0,1,1
+xx54976,Mr. Ricky Lane PhD,1854.18,Surgery,2023-01-11,1,0,1,0
+ZE64234,Lynn Weaver,5125.47,Cancer Treatment,2020-03-19,10,0,1,1
+pN03788,Lisa Chavez,1234.59,Migraine,2021-04-24,1,0,0,0
+Qj91720,Jeffery Harding,4656.56,Diabetes,2024-03-11,5,0,0,1
+Hg39979,Jason Cooper,3413.13,Surgery,2022-09-26,9,0,1,1
+Fv72884,Tracy Chavez,4645.03,Surgery,2020-07-24,9,0,1,1
+Od75240,Andres Washington,5190.74,Surgery,2024-10-18,6,0,1,1
+mD84587,Crystal Fisher,4939.84,Cancer Treatment,2022-07-17,8,0,1,1
+wk79735,John Velez,2056.42,Allergy,2021-05-18,2,0,0,0
+jG87165,John Carter,4536.32,Diabetes,2021-02-27,9,0,0,1
+tq73294,Joseph Horton,5386.85,Cancer Treatment,2024-08-25,6,0,1,1
+YC27739,Rachel Richards,5707.38,Surgery,2024-07-14,7,0,1,1
+FV42259,Melissa Castillo,3544.74,Surgery,2023-04-21,5,0,1,1
+MA47431,Latoya Robinson,2707.06,Diabetes,2023-08-04,3,0,0,0
+kr16197,Sarah Nicholson,2043.58,Surgery,2023-01-17,2,0,1,0
+qi78112,Shannon Peterson,5665.11,Cancer Treatment,2022-12-15,7,0,1,1
+ky92031,Samuel Williams,680.25,Fracture,2023-09-07,2,0,0,0
+af31767,Daniel Watkins,4019.25,Surgery,2021-07-17,4,0,1,1
+Ji75022,Amanda Mccarty,2627.58,Flu,2023-04-12,2,0,0,0
+kH42763,Wayne Smith,1620.57,Fracture,2025-02-20,1,0,0,0
+jz33530,Kathy Martin,5145.63,Surgery,2023-11-15,4,0,1,1
+FK94765,Carlos Griffith,5156.28,Cancer Treatment,2021-04-26,5,0,1,1
+HP84733,Christopher Olson,7094.0,Cancer Treatment,2023-04-09,7,1,1,1
+oV64614,Andrea Webb,4000.85,Migraine,2024-10-09,3,0,0,0
+To31750,Darlene Orr,1772.46,Diabetes,2022-04-26,3,0,0,0
+rB27151,David Kirby MD,914.72,Migraine,2022-11-16,1,0,0,0
+nC04614,Pamela Wilkerson,6683.2,Surgery,2023-03-01,9,0,1,1
+vg70898,Sarah Nelson,4446.73,Cancer Treatment,2024-06-14,6,0,1,1
+Wm49924,Jason Willis,2712.85,Asthma,2024-09-09,2,0,0,0
+Ll82311,Nathan Mitchell,4735.45,Cancer Treatment,2024-06-11,8,0,1,1
+iq33904,Kevin Fischer IV,4391.73,Diabetes,2021-10-08,7,0,0,1
+qC33118,Cory Fox,2809.36,COVID-19,2020-11-22,1,0,0,0
+dd30411,Rachel Cameron,4725.91,Flu,2024-06-17,9,0,0,1
+Pp19857,Sarah Maxwell,5651.56,Flu,2024-03-12,5,0,0,1
+Dx20409,Jessica Peterson,4691.85,Surgery,2023-10-03,9,0,1,1
+jC46336,Mary Le,6051.67,Surgery,2020-07-06,10,0,1,1
+Jj28009,Ronald Burns,2693.92,Flu,2023-05-24,5,0,0,1
+eT93853,Rose Walters,2924.21,Surgery,2024-07-15,4,0,1,1
+YA23401,Joshua Collins,3536.99,Cancer Treatment,2024-11-08,1,0,1,0
+tY29074,Amber Short,3762.72,Cancer Treatment,2024-03-30,9,0,1,1
+mK61181,Priscilla Payne,6714.18,Diabetes,2024-08-24,4,0,0,1
+qP36849,John Medina,3117.0,Asthma,2024-04-18,1,0,0,0
+GH24344,Cynthia King,4256.73,Cancer Treatment,2025-01-02,4,0,1,1
+mi37606,Benjamin Collins,2198.15,Surgery,2020-12-29,2,0,1,0
+vP09623,Judy Freeman,2448.96,Asthma,2023-05-20,1,0,0,0
+wp91184,Matthew Tran,6399.65,Cancer Treatment,2023-05-01,7,0,1,1
+wR42872,Jeremy Browning,3757.46,Surgery,2023-07-11,4,0,1,1
+BW91561,Kimberly Rhodes,2559.25,Allergy,2022-10-19,2,0,0,0
+mG52075,Luke Lopez,-1138.99,Asthma,2022-05-30,2,0,0,0
+lX88452,David Parker,3840.24,Surgery,2023-04-10,3,0,1,0
+sf51774,Peter Jones,1832.34,Flu,2021-10-30,2,0,0,0
+Ni88679,James Harris,6968.51,Cancer Treatment,2020-12-17,4,0,1,1
+nc63215,Scott Marsh,1775.42,Migraine,2025-02-22,1,0,0,0
+Fb25117,Kathy Norman,6104.23,Surgery,2025-02-04,10,0,1,1
+Xz70506,Sherri Davis,1984.3,Hypertension,2020-07-15,3,0,0,0
+SW37360,Bethany White,3777.43,Migraine,2025-03-02,10,0,0,1
+Ze80189,Eric Maldonado,2594.18,Diabetes,2021-06-17,1,0,0,0
+KC65415,Jeanette Dougherty,3022.65,Flu,2020-06-02,2,0,0,0
+FS08139,Christina Kelly,2124.22,Allergy,2022-10-23,3,0,0,0
+xv84529,Allison Hill,6727.71,Surgery,2022-07-19,8,0,1,1
+Mt44814,Destiny Reed,4328.61,Allergy,2021-06-02,5,0,0,1
+QV98448,David Rogers,3934.51,Surgery,2020-10-05,6,0,1,1
+AR95826,Robert Aguilar,2516.64,Surgery,2025-01-24,6,0,1,1
+dI65041,Danielle Navarro,1948.03,Fracture,2021-07-21,6,0,0,1
+vf32105,Bradley Woods,1405.21,Cancer Treatment,2025-02-26,3,0,1,0
+HY44112,Todd Webster,1903.31,Allergy,2024-05-09,1,0,0,0
+Te92943,Roy Garcia,6053.65,Surgery,2020-04-30,6,0,1,1
+tv46801,Manuel Jacobs,809.09,Migraine,2025-02-08,2,0,0,0
+FT65340,Brian Hart,2731.76,Surgery,2022-07-03,9,0,1,1
+ZV16563,Katherine Thompson,8725.82,Hypertension,2022-03-03,9,1,0,1
+uP91245,Jonathan Landry,6251.19,Surgery,2020-09-24,6,0,1,1
+gv88570,Dr. Marcus Fletcher,1519.67,Flu,2020-10-14,3,0,0,0
+WY20432,John Jones,1390.31,Flu,2022-05-02,1,0,0,0
+fz18102,Ann Nunez,3149.35,Surgery,2021-05-02,9,0,1,1
+Aa58987,Jack Jenkins,1338.62,Asthma,2022-05-30,2,0,0,0
+YU09021,Charles Lopez,1563.6,Hypertension,2022-08-05,2,0,0,0
+UN21934,Steven Mckenzie,7894.13,Cancer Treatment,2020-11-20,6,1,1,1
+hY24538,Jeffrey Rosario,1671.35,Diabetes,2025-02-20,1,0,0,0
+TT00878,Patrick Jones,2590.73,Allergy,2024-05-02,3,0,0,0
+ML26178,Robin Burke,4860.68,Migraine,2021-01-04,7,0,0,1
+Ed22605,Timothy Brown,4384.27,Cancer Treatment,2024-05-05,7,0,1,1
+uB37819,Phillip Hicks,4519.72,Surgery,2024-11-17,8,0,1,1
+BY52607,Melissa Gutierrez,6293.67,Hypertension,2020-06-18,4,0,0,1
+gI87441,Helen Burns,1516.51,Fracture,2020-05-03,3,0,0,0
+pH06001,Kenneth Everett,2038.53,Cancer Treatment,2023-10-20,3,0,1,0
+hb06194,Morgan Hill,3048.35,COVID-19,2023-11-27,3,0,0,0
+yL16463,Victoria Morales,463.99,Fracture,2024-01-02,1,0,0,0
+oU63582,Angela Blankenship,6791.26,Surgery,2023-07-11,9,0,1,1
+zp53348,Michael Watson,5694.21,Diabetes,2020-12-06,4,0,0,1
+EX53058,Joshua Lynch,2286.23,Diabetes,2021-02-13,2,0,0,0
+DP27061,Amanda Kline,4431.05,Allergy,2022-09-01,10,0,0,1
+Sl11182,Kelly Carter,2274.88,Cancer Treatment,2021-02-19,4,0,1,1
+rL92363,Kevin Jones,2918.9,Surgery,2020-09-04,9,0,1,1
+ZO15849,Adam Anderson,4723.96,Allergy,2023-09-26,5,0,0,1
+WI58771,Rhonda Davis,6015.91,Cancer Treatment,2023-10-29,8,0,1,1
+Im51139,Robert Gay,6025.67,Cancer Treatment,2024-08-03,6,0,1,1
+Sj78089,Dwayne George,1750.97,Migraine,2025-01-19,3,0,0,0
+WL65733,Jared Farmer,2484.96,Diabetes,2024-08-13,3,0,0,0
+jG58562,Jacqueline Gillespie,1875.42,COVID-19,2022-03-29,3,0,0,0
+MV55816,Charles Thompson,6212.19,Surgery,2023-08-09,9,0,1,1
+Ay85634,Donna Gonzalez,1523.57,Migraine,2025-02-04,2,0,0,0
+oo50535,Katherine Contreras,6808.18,Surgery,2021-06-12,7,0,1,1
+mX25989,Ashley Wong,5854.01,Migraine,2024-09-29,4,0,0,1
+Fr70202,Kristina Mendez,2355.52,Cancer Treatment,2024-04-03,1,0,1,0
+ue15065,Megan Hernandez,1801.4,Surgery,2023-08-27,1,0,1,0
+Ar18992,Jacob Rodriguez,2581.16,Flu,2024-07-17,1,0,0,0
+VT56942,Stephanie Farley,2905.94,Fracture,2023-07-10,2,0,0,0
+Zs53325,Vanessa Bailey,2286.49,COVID-19,2021-02-02,1,0,0,0
+FS07778,Mark Harrington,4321.06,Hypertension,2022-04-12,5,0,0,1
+Zs98114,Daniel Lee,2522.55,Asthma,2021-05-11,1,0,0,0
+uI49511,Johnny Mora,6057.27,Surgery,2020-10-28,10,0,1,1
+RR04720,Debra Mathews,1217.5,Diabetes,2021-04-20,2,0,0,0
+pu14159,Paula Miller,6213.68,Surgery,2023-12-22,6,0,1,1
+tX20884,Angela West,7009.67,Hypertension,2023-10-15,7,0,0,1
+cL33055,Christopher Scott,3313.23,Migraine,2020-06-24,9,0,0,1
+Vq66847,Christopher Wallace,4308.69,Cancer Treatment,2023-12-18,8,0,1,1
+ez51818,Jenny Miller,6759.07,Hypertension,2022-05-03,6,0,0,1
+HP07253,Joshua Mayo,4193.93,Surgery,2024-12-26,4,0,1,1
+Ct65822,Eric Richardson,2022.28,Surgery,2021-09-19,1,0,1,0
+Gy43808,Alison Fields,949.81,Asthma,2021-03-04,1,0,0,0
+MP67445,Mallory Ruiz,1120.34,COVID-19,2022-12-19,2,0,0,0
+LS97991,Ronald Vazquez,577.03,Surgery,2021-07-25,1,0,1,0
+yy16683,Corey Tran,1490.7,Diabetes,2022-03-21,3,0,0,0
+Zg04330,Jared Ferguson,4814.18,Hypertension,2021-02-10,7,0,0,1
+av16099,Megan Jenkins,4854.39,Hypertension,2023-07-25,10,0,0,1
+CJ45635,James Obrien,3177.13,Cancer Treatment,2022-10-27,7,0,1,1
+By13826,Andrea Neal,3959.7,Surgery,2021-09-10,8,0,1,1
+yB52703,Christopher Smith,1072.69,Fracture,2021-01-18,1,0,0,0
+Ec33403,Stephanie Mcbride,8062.29,Migraine,2022-10-30,8,1,0,1
+Vo78444,Julie Hicks,2468.73,Flu,2021-03-07,2,0,0,0
+gz92470,Olivia Navarro,2280.84,Cancer Treatment,2020-03-15,1,0,1,0
+Rb91825,Jennifer Reed,5850.27,Surgery,2024-08-20,6,0,1,1
+vj09804,Linda Jones,9145.08,Flu,2024-12-04,8,1,0,1
+ji56480,Katherine Petersen,1142.3,Asthma,2023-05-24,2,0,0,0
+bO55583,Jessica Meadows,5295.49,Diabetes,2024-05-14,7,0,0,1
+ZU50737,Nicole Moore,3919.96,Fracture,2023-06-05,10,0,0,1
+bB37248,Kyle Garza,1307.95,COVID-19,2022-04-22,2,0,0,0
+QU41883,Cathy Mathis,4622.79,Surgery,2025-02-11,10,0,1,1
+qP85042,Michael Freeman,2468.99,Cancer Treatment,2022-10-11,2,0,1,0
+dj40149,Jacob Adams,2691.58,Diabetes,2022-05-04,3,0,0,0
+xY75308,Elizabeth Moore,2455.23,Hypertension,2024-10-12,1,0,0,0
+ov66697,Karen Wallace,1750.5,Migraine,2020-11-26,2,0,0,0
+JC91682,Paul Mccoy,5043.41,Cancer Treatment,2023-03-06,6,0,1,1
+ix24637,Eugene Cox,6435.41,Flu,2023-11-15,6,0,0,1
+Gt76296,Tyler Smith,3441.29,Migraine,2023-04-18,1,0,0,0
+IH42377,Nancy Moore,2235.14,Surgery,2023-07-10,2,0,1,0
+tE39195,Austin Jackson,3222.24,Hypertension,2020-05-01,3,0,0,0
+tO73371,James Lewis,3934.35,Asthma,2023-11-24,9,0,0,1
+kN04885,Diane Cowan MD,5060.82,Allergy,2023-07-13,4,0,0,1
+VD03966,Jessica Jackson,1878.1,Flu,2021-06-24,3,0,0,0
+xr38930,Dale Boyd,5932.68,Surgery,2022-04-23,4,0,1,1
+lO19696,Bryan Sparks,4969.29,Hypertension,2022-07-12,6,0,0,1
+mw66032,Collin Hudson,2028.8,Flu,2023-08-31,1,0,0,0
+Qt61386,Jessica Rocha,2190.76,Diabetes,2023-02-02,1,0,0,0
+Gc08982,Angela Gibson,6710.95,Fracture,2021-01-06,8,0,0,1
+pB03490,Jill Brown,6307.73,Hypertension,2022-02-05,5,0,0,1
+SI96613,David Sanchez,1696.68,COVID-19,2023-04-01,2,0,0,0
+Ba69905,Teresa Obrien,3622.0,Cancer Treatment,2023-08-23,9,0,1,1
+vu88287,Ashley Rodriguez,4498.21,Surgery,2020-04-08,6,0,1,1
+Xl03078,Alice Vang,5064.88,Cancer Treatment,2022-03-16,8,0,1,1
+KU41526,Sara Davidson,6512.97,Cancer Treatment,2022-02-10,5,0,1,1
+sH61954,Gail Wiggins,2685.0,COVID-19,2022-01-17,1,0,0,0
+HR52219,Jennifer Barnes,4839.23,Cancer Treatment,2024-10-11,6,0,1,1
+Ot39598,Breanna Holloway,1786.21,Cancer Treatment,2021-03-07,3,0,1,0
+lx85859,Alexander Smith,2510.74,Asthma,2021-07-01,2,0,0,0
+vo43281,Amy Riley,3420.63,Hypertension,2024-01-02,6,0,0,1
+HK49218,Timothy Duffy,1822.69,Migraine,2024-08-30,2,0,0,0
+VN88029,Marissa Brady,1927.94,Allergy,2025-02-07,3,0,0,0
+aS53246,Mrs. Jordan Thomas,2542.85,Diabetes,2022-07-05,1,0,0,0
+st29393,Danielle Olson,2622.93,Allergy,2020-07-31,3,0,0,0
+oW80107,Billy Kelly,1902.97,Diabetes,2020-05-15,2,0,0,0
+OW24040,Kelly Gomez,2714.02,Diabetes,2020-11-13,3,0,0,0
+IN41914,Brandon Padilla,2252.95,Asthma,2024-05-31,2,0,0,0
+Yl77459,Morgan Hooper,4145.27,Cancer Treatment,2021-03-11,7,0,1,1
+Va64566,Christopher Simon,1088.26,Hypertension,2024-04-07,1,0,0,0
+HU64226,Brandy King,3762.09,Hypertension,2025-02-05,2,0,0,0
+jb28336,Corey Roberts Jr.,4235.59,Cancer Treatment,2023-12-04,10,0,1,1
+Ux78340,Jennifer Mendoza,3542.98,Surgery,2023-06-18,4,0,1,1
+yg53512,Adrian Thomas,3132.71,Surgery,2024-05-30,8,0,1,1
+GD46674,David Graham,1434.59,Asthma,2022-03-05,3,0,0,0
+Un48399,Amy Atkins,4893.81,Hypertension,2023-05-30,7,0,0,1
+Ao95211,Dustin Long,5050.34,Cancer Treatment,2020-03-16,4,0,1,1
+Sx74611,Eugene Lindsey,1993.67,COVID-19,2020-06-04,1,0,0,0
+Yx83148,Anna Stephens,8058.0,Surgery,2023-02-24,10,1,1,1
+zH76659,Ashley Short,5224.48,Migraine,2022-05-06,6,0,0,1
+Nv20324,Brian Miller,8625.24,Surgery,2024-09-06,4,1,1,1
+RG38903,Stephen Nelson,4657.6,Cancer Treatment,2022-08-26,8,0,1,1
+tM86339,Allison Ellis,4191.19,Cancer Treatment,2021-04-12,4,0,1,1
+Ig83795,Joshua Stevens,4882.68,Asthma,2025-02-22,8,0,0,1
+xo95523,Holly Duarte,2675.69,Cancer Treatment,2021-12-02,1,0,1,0
+CD18967,James Lewis,2925.8,Flu,2022-12-07,1,0,0,0
+eb69155,Dennis Fowler,2511.97,Cancer Treatment,2020-07-08,3,0,1,0
+ah39543,Jessica Wallace,3507.92,Surgery,2022-02-23,4,0,1,1
+ax88083,Mrs. Angelica Martin,3300.94,Surgery,2021-05-29,9,0,1,1
+nV43552,Morgan Allen,1422.47,Cancer Treatment,2022-06-22,3,0,1,0
+wL35101,Angela Richards,1680.42,Cancer Treatment,2021-06-20,1,0,1,0
+fO13130,Michael Richards,2217.31,Diabetes,2020-04-12,3,0,0,0
+VR38189,Barbara Ruiz,3042.86,Surgery,2021-04-09,2,0,1,0
+bM81041,Ryan Rhodes,6068.89,Surgery,2023-11-15,7,0,1,1
+ow29215,Steven Silva,3189.89,Cancer Treatment,2021-05-25,6,0,1,1
+CT86048,Brandon Daniels,4128.52,Surgery,2025-01-11,8,0,1,1
+RB79207,Connie Lee,4920.94,Surgery,2020-04-04,10,0,1,1
+mw29224,Donald Smith,1801.41,Hypertension,2022-04-03,2,0,0,0
+TO72601,David Jackson,1519.57,Cancer Treatment,2024-12-15,3,0,1,0
+YN87264,Paula Morales,1062.37,Cancer Treatment,2023-07-15,1,0,1,0
+td04183,Allison Trevino,1771.48,Surgery,2022-10-24,2,0,1,0
+MJ28071,Katherine Parrish,1786.81,Flu,2021-03-23,1,0,0,0
+Dg47892,Brian Cook,5838.89,Surgery,2023-03-11,5,0,1,1
+En27294,Kyle Jones,5702.25,Surgery,2023-09-30,10,0,1,1
+pu65296,Julie Simmons,4424.31,Surgery,2022-09-21,8,0,1,1
+kC31305,Dr. Paul Jimenez,3759.57,Surgery,2024-05-26,1,0,1,0
+NS38004,Patrick Brown,5114.78,Flu,2021-10-27,4,0,0,1
+gA33641,Katherine Garcia,5369.32,Surgery,2023-12-09,6,0,1,1
+gw73683,Jack Mccall,2732.14,Surgery,2021-12-24,1,0,1,0
+oU11369,Alex Byrd,1622.81,Allergy,2023-01-14,1,0,0,0
+WW95654,Natasha Nelson,5617.21,Surgery,2023-11-08,4,0,1,1
+hZ61002,Olivia Moses,6120.83,Cancer Treatment,2022-05-06,9,0,1,1
+CB00192,James White,2831.64,Hypertension,2022-09-06,1,0,0,0
+tl92973,Robert Bishop,4928.66,Cancer Treatment,2023-07-01,10,0,1,1
+wV49350,Stanley Douglas,2841.71,Cancer Treatment,2021-05-24,4,0,1,1
+hU90358,Pamela Davis,2716.87,Asthma,2022-08-04,3,0,0,0
+oB59038,Steven Sheppard,7851.28,Surgery,2021-09-24,8,1,1,1
+ii91947,Patricia Schwartz,5001.75,Surgery,2021-02-02,4,0,1,1
+pv78906,Kevin Riley,3121.25,Surgery,2022-01-17,4,0,1,1
+fX30393,Amanda Taylor,2728.25,Allergy,2022-02-12,3,0,0,0
+Co93841,Craig Sanchez,1619.02,COVID-19,2024-05-05,3,0,0,0
+RR44930,Louis Khan,7508.46,Cancer Treatment,2024-07-09,10,1,1,1
+OT05155,William Bowman,8412.28,Surgery,2021-08-21,4,1,1,1
+BG86286,Emily Austin,1507.69,Cancer Treatment,2022-12-09,1,0,1,0
+rl22350,Manuel Giles,4043.87,Fracture,2024-08-26,1,0,0,0
+Mr81225,Luis Turner,6649.72,Cancer Treatment,2024-08-09,9,0,1,1
+WL20758,Jay Curry,2130.41,COVID-19,2022-07-20,2,0,0,0
+Hw36865,Justin Henry,2363.7,Asthma,2024-08-26,2,0,0,0
+bS07603,Traci Willis,2013.99,Asthma,2025-01-14,1,0,0,0
+EA09548,Gilbert Reyes,5710.19,Cancer Treatment,2024-01-21,8,0,1,1
+ZY55708,David Walker,769.59,COVID-19,2022-04-07,3,0,0,0
+lk97017,Laura Garcia,7286.54,Surgery,2022-05-19,10,1,1,1
+TG97935,Christina Miller,1738.34,Fracture,2022-09-04,1,0,0,0
+zC27990,Kristina Smith,1475.0,Migraine,2023-04-24,3,0,0,0
+Gn95463,Jennifer Garcia,5099.47,Cancer Treatment,2021-03-27,6,0,1,1
+Tt26037,Jeffrey Howard,3594.82,Cancer Treatment,2021-10-20,10,0,1,1
+IT02697,Ryan Collins,4689.71,Cancer Treatment,2021-10-21,6,0,1,1
+vg26181,Heather Carter,5669.79,Hypertension,2022-10-15,6,0,0,1
+MQ13625,Douglas Smith,1998.22,Hypertension,2024-09-16,3,0,0,0
+LH13819,Sierra Long,2473.88,Surgery,2022-06-01,1,0,1,0
+Vp92923,Leslie Lewis,2631.06,Cancer Treatment,2023-04-11,5,0,1,1
+AH83468,Katie Hubbard,1814.43,Surgery,2024-12-17,2,0,1,0
+ek26323,Jaime Wong,4333.83,Surgery,2021-07-06,7,0,1,1
+ZT81996,Theodore Chandler,3561.19,Fracture,2022-05-24,5,0,0,1
+kU59032,Mark Robles,2909.76,Cancer Treatment,2023-08-24,1,0,1,0
+OU73082,Claire Dawson,2564.42,Cancer Treatment,2022-11-29,4,0,1,1
+fY61737,Timothy Marsh,3346.77,Surgery,2023-02-07,2,0,1,0
+uY04774,Christopher Williams,2087.77,Asthma,2024-04-03,1,0,0,0
+is14134,Gary Smith,3762.04,Cancer Treatment,2023-11-17,9,0,1,1
+JP08525,Dr. Anthony Mcfarland,1303.24,Allergy,2025-01-03,3,0,0,0
+mn03442,Paul Scott,7042.31,Fracture,2022-04-02,10,0,0,1
+AR75224,Chad Stone,8649.55,Asthma,2024-10-04,8,1,0,1
+Ee23630,Rachel Fields,5510.01,Surgery,2022-05-29,8,0,1,1
+zU28979,Alexis Flowers,6472.88,Surgery,2023-03-01,8,0,1,1
+dw96276,Timothy Jones,6322.86,COVID-19,2020-10-29,4,0,0,1
+yz06598,Samantha Jones,2464.32,Surgery,2021-12-20,1,0,1,0
+Sh71324,Mr. Jeffery Williams,3006.61,Migraine,2020-07-06,2,0,0,0
+Va09662,Paul Chandler,6083.28,Surgery,2022-07-11,4,0,1,1
+fQ78664,Katherine Kelly,7474.88,Surgery,2024-04-23,9,1,1,1
+RX89437,Raven Wade,1894.36,Hypertension,2021-01-12,1,0,0,0
+Ch22512,Jeremy Floyd,5362.37,Cancer Treatment,2022-08-20,8,0,1,1
+KI19673,Marie Jimenez,1897.46,Migraine,2022-05-02,2,0,0,0
+ID54516,Antonio Ramirez,5216.29,Surgery,2024-06-14,9,0,1,1
+wF96497,Rachael Castillo,1574.45,Flu,2024-01-31,2,0,0,0
+nh07295,Kathleen Harmon,5562.86,Cancer Treatment,2021-11-30,4,0,1,1
+Zw23435,Jason Dixon,6249.73,Surgery,2020-11-25,9,0,1,1
+Td37826,Steven Martin,5258.16,Cancer Treatment,2024-08-20,8,0,1,1
+Bg38403,Joseph Bird,1836.42,COVID-19,2020-07-27,3,0,0,0
+nw58368,Sara Wiggins,5359.11,Cancer Treatment,2023-06-27,4,0,1,1
+Il95424,Paul Nolan,1950.5,COVID-19,2022-04-18,1,0,0,0
+Xc54483,Kenneth Wilson,3702.75,Cancer Treatment,2020-10-25,4,0,1,1
+sP99595,Shari Cole,1510.45,Fracture,2024-07-12,2,0,0,0
+Zv31306,Joshua Skinner,2091.28,Cancer Treatment,2020-09-20,1,0,1,0
+ai37720,Connor Park,2248.51,Flu,2023-07-12,3,0,0,0
+aH64653,Richard Rivera,3991.98,COVID-19,2022-08-11,10,0,0,1
+JN93575,Amy Walker,3695.49,Surgery,2022-08-25,9,0,1,1
+FD28970,Matthew Perry,3150.68,Hypertension,2023-06-15,7,0,0,1
+df26571,Charles Myers,2435.98,Hypertension,2024-08-09,1,0,0,0
+fq74193,April Williams,2297.01,Hypertension,2022-04-09,3,0,0,0
+TV91658,Dustin Santos,2446.8,Hypertension,2023-01-03,1,0,0,0
+yR47756,Carlos Banks,4540.18,Surgery,2020-04-06,4,0,1,1
+Ct64946,Melissa Brown,4980.79,Flu,2023-12-23,6,0,0,1
+XF36784,William Snow,5010.54,Surgery,2021-07-14,7,0,1,1
+rF15513,Laurie Alexander,7331.58,Cancer Treatment,2021-09-25,7,1,1,1
+JV31050,Clayton Rogers,4595.07,Asthma,2021-08-10,4,0,0,1
+ie55927,Paul Nichols,4560.87,Surgery,2024-10-03,8,0,1,1
+dt43108,Kaitlin Kennedy,2819.89,Allergy,2020-10-20,3,0,0,0
+uM10644,Stuart White,2000.14,Flu,2021-11-18,3,0,0,0
+cY49414,David Cunningham,1014.76,Fracture,2022-02-26,2,0,0,0
+eN98755,Michael Wiggins,1344.87,Allergy,2022-02-16,3,0,0,0
+gS26126,Jessica Brown,6811.81,Cancer Treatment,2021-10-08,8,0,1,1
+PV72627,Timothy Winters,2791.36,Allergy,2021-01-17,1,0,0,0
+Ye23260,Mark Wilson,5430.59,Surgery,2025-03-05,8,0,1,1
+Fj53995,Courtney Ball,2360.83,Surgery,2020-12-12,2,0,1,0
+Xc14724,Rebecca Perkins,1618.01,COVID-19,2021-06-04,1,0,0,0
+Oi68138,David Long,1779.96,Migraine,2020-05-10,2,0,0,0
+gL46091,Danielle Schmidt,5674.6,Hypertension,2023-05-24,10,0,0,1
+tA01072,James Cobb,2658.69,COVID-19,2022-01-18,1,0,0,0
+BZ18693,Jerome Abbott,3339.18,Cancer Treatment,2023-07-09,7,0,1,1
+cU06773,Jose Nelson,2114.88,Asthma,2024-12-13,3,0,0,0
+iL45892,Christine Campbell MD,2742.74,Cancer Treatment,2022-01-05,8,0,1,1
+rB09425,Douglas Hicks,1759.34,Surgery,2022-06-07,2,0,1,0
+eA10044,Nicole Aguirre,1689.46,Flu,2025-01-26,2,0,0,0
+Fk33229,Kathryn Adams,5190.75,Surgery,2023-05-16,5,0,1,1
+tF80610,Raymond Jacobs,1438.07,Asthma,2020-08-03,3,0,0,0
+af70785,Brenda Meadows,948.45,Surgery,2022-01-30,1,0,1,0
+Lu53627,Emily Murphy,2254.04,Diabetes,2022-07-09,3,0,0,0
+ao95411,Michael Doyle,2902.55,Surgery,2023-09-27,2,0,1,0
+aA07455,Christopher Powers,750.12,Surgery,2024-09-23,10,0,1,1
+aY45814,Larry Higgins MD,1961.78,Asthma,2024-11-27,1,0,0,0
+TZ33402,Zachary Vang,1179.0,Fracture,2020-09-16,1,0,0,0
+Pq81488,Heather Gray,6413.65,Cancer Treatment,2024-04-18,8,0,1,1
+yq75957,Isaac Gray,2181.8,Migraine,2020-04-05,1,0,0,0
+iK61023,Jeanne Miller,2286.98,Migraine,2021-07-13,2,0,0,0
+Xg95943,Jacob Baldwin,6655.7,Migraine,2021-04-03,6,0,0,1
+gg20940,William Wright,2160.06,Allergy,2021-10-15,1,0,0,0
+Wn29209,Jay Elliott,2336.53,Cancer Treatment,2024-09-18,2,0,1,0
+VC85469,Lisa Jackson,1352.13,Surgery,2020-09-14,3,0,1,0
+BO10535,Lisa Goodwin,5739.62,Surgery,2023-09-05,5,0,1,1
+ME32936,Kayla Hill,1950.99,Hypertension,2022-03-12,2,0,0,0
+XS88348,Travis Ortiz,1027.94,Allergy,2023-08-11,1,0,0,0
+xk84071,Lisa Parker,2383.56,Migraine,2022-04-19,2,0,0,0
+vT46488,Ronald Willis,1411.11,Cancer Treatment,2020-12-13,1,0,1,0
+Hn73226,Kyle Clark,4428.64,Allergy,2023-04-23,9,0,0,1
+RY27615,Emily Baker,2847.42,COVID-19,2024-11-27,3,0,0,0
+Sm09038,Kyle Logan,6154.7,Fracture,2024-02-16,10,0,0,1
+Pf82997,Mary Green,2273.63,Asthma,2021-06-14,1,0,0,0
+NF83594,April Hunter,3050.69,Hypertension,2023-03-15,1,0,0,0
+gE73127,Penny Jones,1637.65,Asthma,2020-09-06,3,0,0,0
+Ow38292,Molly Harris,6855.89,Hypertension,2021-03-26,7,0,0,1
+Zb76546,Rachel Boyd,4046.56,Flu,2020-09-29,3,0,0,0
+FT65680,Amber Jones,2602.58,Diabetes,2025-02-02,3,0,0,0
+WD28998,Rachel Miller,6058.95,Surgery,2021-09-15,10,0,1,1
+Jj91623,Wendy Figueroa,6252.32,Asthma,2021-08-14,5,0,0,1
+QO93068,Marcia Forbes,5029.05,Surgery,2024-06-04,9,0,1,1
+tQ64956,John Pace,6214.67,Hypertension,2023-09-30,9,0,0,1
+Zx94385,Lisa Garcia,1582.99,Hypertension,2021-12-22,3,0,0,0
+Bn28279,Anthony Brown,6117.84,Asthma,2021-08-16,6,0,0,1
+gU81167,Ricky Allen,5293.76,Diabetes,2022-03-15,4,0,0,1
+gW93635,Eric Krueger,5752.68,Cancer Treatment,2024-08-29,10,0,1,1
+If91792,Michelle Reeves,1963.37,Hypertension,2021-03-18,3,0,0,0
+PG17320,James Chang,3089.74,COVID-19,2023-04-29,2,0,0,0
+aX21652,Joseph Nelson,2870.18,Migraine,2023-04-10,6,0,0,1
+wG23137,Tasha Hayes,5310.84,Allergy,2020-05-30,10,0,0,1
+Fr41528,Peter Hull,5504.43,Surgery,2022-08-30,5,0,1,1
+ml74729,Krystal Cooper,6025.8,Surgery,2023-06-27,6,0,1,1
+Qa29354,Kevin Smith,5992.41,Surgery,2022-09-28,6,0,1,1
+tk97655,Amy Jensen,2453.57,Flu,2023-09-28,1,0,0,0
+ep93712,Angela Wilkinson,5875.95,Flu,2020-04-18,8,0,0,1
+dF32716,Jesse Graham,1552.99,Cancer Treatment,2020-11-04,5,0,1,1
+SP00426,James Hill,1430.56,Cancer Treatment,2023-12-07,2,0,1,0
+dN96440,Gloria Murillo,1013.86,Diabetes,2024-11-04,2,0,0,0
+fk55683,Barbara Jimenez,1611.69,Migraine,2020-06-13,3,0,0,0
+kv78874,Christopher Mitchell,5922.18,Cancer Treatment,2022-11-12,8,0,1,1
+RO42573,Patricia Doyle,3089.34,Allergy,2023-03-02,3,0,0,0
+Ar00369,Kenneth Young,2977.2,Surgery,2023-04-23,4,0,1,1
+dk90601,Robert Hill,3246.84,Diabetes,2023-07-31,5,0,0,1
+rt86111,Amy Sullivan,1661.05,COVID-19,2022-03-16,3,0,0,0
+kg62650,Dr. Brittany Brown DVM,3015.71,Surgery,2023-08-30,6,0,1,1
+LC52519,Howard Martin,2800.47,Surgery,2024-06-28,3,0,1,0
+YM90644,Stacey Green,1958.06,Diabetes,2021-10-21,2,0,0,0
+zr83932,Elizabeth Johnson,2970.53,Cancer Treatment,2023-08-13,3,0,1,0
+PJ03727,Charles Miller,5188.76,Migraine,2024-01-27,6,0,0,1
+SW33320,Teresa Gray,1861.82,Asthma,2023-09-19,10,0,0,1
+IF32034,Kimberly Conner,3605.4,Surgery,2021-12-05,5,0,1,1
+Bi60564,Jeffrey Andrade,1975.8,Surgery,2024-09-10,1,0,1,0
+ta99359,Brenda Jacobs,7451.04,Surgery,2022-02-15,7,1,1,1
+oy83618,Kristen Rice,2378.61,Asthma,2024-04-01,3,0,0,0
+uR30795,Kyle Ramirez,2006.87,Diabetes,2020-12-18,3,0,0,0
+GS51993,Kelly Clark,1329.99,COVID-19,2024-11-10,2,0,0,0
+uc21549,Diamond Jones,5056.17,Surgery,2021-04-09,5,0,1,1
+lv25282,Michael Garcia,5858.29,Cancer Treatment,2024-11-24,4,0,1,1
+Lv75400,Jennifer Collins,1698.83,Hypertension,2021-04-01,2,0,0,0
+qZ32179,Abigail Frey,4534.74,Cancer Treatment,2024-12-20,7,0,1,1
+gK00760,Benjamin Berry,1917.8,Diabetes,2022-08-21,3,0,0,0
+vA68587,Kristin Dominguez,1716.36,Flu,2023-02-15,3,0,0,0
+Qv72726,Randy Johnson,1594.45,Fracture,2023-11-05,3,0,0,0
+zf06535,Brian Romero,6336.45,Cancer Treatment,2024-09-02,9,0,1,1
+oM16265,Barbara Spencer,1461.25,Surgery,2023-08-28,1,0,1,0
+ux20606,Leonard Evans,2714.7,Surgery,2025-01-06,10,0,1,1
+xs64509,Angela Smith,5030.06,Surgery,2023-02-26,8,0,1,1
+Ar76418,Michael Price,2164.9,Flu,2024-12-08,1,0,0,0
+Vp12014,Cynthia Oconnor,4941.67,Cancer Treatment,2023-06-06,8,0,1,1
+tL78615,Jeffrey Cox,6762.52,Surgery,2024-12-04,8,0,1,1
+Ju41994,Ashley Jones,6797.46,Fracture,2024-04-04,5,0,0,1
+LB71712,Ashley Baker,5842.52,COVID-19,2020-03-30,8,0,0,1
+Ri47358,Robert Allen,3609.52,Cancer Treatment,2021-08-23,9,0,1,1
+eS15012,Crystal Vasquez,4476.78,Surgery,2022-07-10,6,0,1,1
+LS45037,Mrs. Alyssa Miller DDS,5431.07,COVID-19,2023-09-07,4,0,0,1
+ub88803,Crystal Hartman,4391.58,Cancer Treatment,2023-02-22,5,0,1,1
+iD94688,Tiffany Smith,6667.88,Surgery,2022-11-21,5,0,1,1
+HW08410,Glen Taylor,2955.32,Allergy,2023-10-15,3,0,0,0
+yF32231,Donald Allen,1310.97,Migraine,2025-02-28,3,0,0,0
+YR16580,Sandra Zavala,1738.27,COVID-19,2024-11-21,3,0,0,0
+uA39242,Brian Lopez,2210.98,Allergy,2023-02-06,2,0,0,0
+Ic42775,Lisa Horn,7814.86,Cancer Treatment,2021-04-10,9,1,1,1
+NO60010,Cynthia Lee,670.76,Flu,2024-08-07,1,0,0,0
+zM45073,Tracy Santana,4228.48,Cancer Treatment,2024-04-30,7,0,1,1
+TF41655,John Martin,1552.89,Surgery,2021-11-28,1,0,1,0
+wD10076,Shelley Grant,6060.62,Surgery,2024-06-28,6,0,1,1
+nD86606,Elizabeth West,4093.12,Surgery,2022-11-03,6,0,1,1
+lW86476,Crystal Gardner,4988.04,Cancer Treatment,2021-10-09,8,0,1,1
+lE49487,Brittany Donovan,2669.97,Migraine,2020-08-26,3,0,0,0
+Lx77956,Amanda Daniels,1279.69,Hypertension,2021-04-19,3,0,0,0
+qV04590,David Smith,1104.08,Fracture,2020-04-21,1,0,0,0
+rY06067,Carlos Peterson,5352.15,Fracture,2022-12-28,9,0,0,1
+BY56047,Sarah Schultz,1094.74,Flu,2021-01-23,1,0,0,0
+ry10306,Linda Frazier,3120.98,Cancer Treatment,2020-11-08,9,0,1,1
+Ww40270,Rachel Dennis,7897.89,Surgery,2020-07-28,10,1,1,1
+zA31879,Jennifer Adams,1732.32,COVID-19,2020-03-30,2,0,0,0
+lb39638,Kathleen Lane,2780.19,Diabetes,2022-06-08,7,0,0,1
+MN02983,Marissa Golden,1658.55,Migraine,2021-01-03,3,0,0,0
+aG41962,Patricia Brown,6471.19,Cancer Treatment,2020-11-12,8,0,1,1
+ee45770,Heather Lewis,991.41,Asthma,2023-07-03,1,0,0,0
+UV67559,Elizabeth Boyd,993.89,Fracture,2022-02-20,2,0,0,0
+Uy37953,David Collins,1516.52,Hypertension,2023-08-13,1,0,0,0
+ck31848,Cheryl Hicks,3961.56,Surgery,2021-03-12,3,0,1,0
+fw81521,Donna Wagner,1211.26,Migraine,2022-03-10,1,0,0,0
+CK01856,Gregory Keller,1372.2,Hypertension,2022-06-02,2,0,0,0
+Qh95140,Michael Baker,2479.06,Fracture,2023-02-03,10,0,0,1
+jx26774,Timothy Herrera,2334.08,COVID-19,2024-12-05,1,0,0,0
+Am06463,Tracey Walker,1576.5,Allergy,2022-01-02,1,0,0,0
+HF01436,Jennifer Torres,5982.06,Cancer Treatment,2023-10-24,4,0,1,1
+vU00244,James Moore,4829.05,Cancer Treatment,2022-11-09,4,0,1,1
+dc02929,Stacy Perez,3252.39,Migraine,2020-10-04,1,0,0,0
+AJ63412,Alexis Scott,1410.79,Diabetes,2020-08-01,3,0,0,0
+nA49196,Todd Walker,2242.76,Cancer Treatment,2024-03-02,3,0,1,0
+gN91390,Nathan Patrick,3992.92,Surgery,2024-05-06,4,0,1,1
+Mt18808,Jonathan Quinn,3091.34,Surgery,2021-03-20,6,0,1,1
+Mf23607,Charles Little,2495.84,Migraine,2024-11-14,2,0,0,0
+bv22506,Jeremy Bryan,4493.2,Diabetes,2023-06-12,4,0,0,1
+wQ75335,Tammy Blankenship,5955.35,COVID-19,2022-06-18,5,0,0,1
+hT08463,Kenneth Camacho,2188.37,Migraine,2022-08-06,1,0,0,0
+sO00233,Annette Salinas,2619.29,Asthma,2020-06-25,2,0,0,0
+vM76481,Casey Oliver,2143.71,Flu,2022-01-31,2,0,0,0
+UE74433,Amanda Freeman,5342.83,Surgery,2024-10-27,6,0,1,1
+Zv53671,Eric Maynard,2751.27,Fracture,2021-01-02,10,0,0,1
+KP18818,Natalie Freeman,3032.91,Surgery,2020-11-03,2,0,1,0
+nk30440,Sharon Miranda,2034.77,Flu,2025-03-02,7,0,0,1
+LS39796,Jeffrey Lam,546.45,Diabetes,2024-12-21,2,0,0,0
+qQ14256,Nicole Webb,4517.18,Cancer Treatment,2024-01-09,7,0,1,1
+eN08381,Shane Lawson,2367.22,Surgery,2024-10-03,1,0,1,0
+ug46997,Christopher Kim,1792.4,Asthma,2023-01-13,2,0,0,0
+zV19003,Julia Gray,1928.53,Allergy,2024-10-05,3,0,0,0
+mC77548,Jackie Gordon,4288.05,Diabetes,2023-06-17,9,0,0,1
+Wa32678,Victoria Cole DVM,4288.04,Cancer Treatment,2024-05-27,8,0,1,1
+ib34012,Christina Ellis,7880.05,Diabetes,2024-12-25,10,1,0,1
+wD39709,Christine Ford,3061.29,Surgery,2023-09-02,9,0,1,1
+GJ41911,Aaron Jordan,3030.28,Flu,2021-06-03,1,0,0,0
+Vm07565,Lindsey Hughes,1573.79,COVID-19,2023-05-10,1,0,0,0
+mL15619,Mark Harris,4380.81,Surgery,2020-12-22,7,0,1,1
+TF62017,Caitlin Fields,5055.6,Cancer Treatment,2024-10-22,8,0,1,1
+De44039,Tammy Johnson,7524.23,Cancer Treatment,2021-09-16,9,1,1,1
+NZ93364,William Hunter,6004.12,Surgery,2021-04-10,5,0,1,1
+no82937,John Miller,2841.38,Allergy,2021-11-19,2,0,0,0
+yM97898,Randy Smith,865.0,Diabetes,2021-02-05,1,0,0,0
+ui56626,Mr. Mark Wells,5614.32,Surgery,2022-06-04,10,0,1,1
+yU19771,James Blanchard,1542.01,Surgery,2022-01-02,3,0,1,0
+oK41956,Amber Little,2946.71,Allergy,2024-05-13,2,0,0,0
+RN94298,Emily Jones,4661.74,Surgery,2021-02-14,9,0,1,1
+rx40112,Cheyenne Harding,3066.91,Allergy,2024-09-01,7,0,0,1
+rF53841,David Elliott,1349.41,Surgery,2023-09-05,1,0,1,0
+dp68111,Mario Rios,8565.1,Surgery,2025-01-13,4,1,1,1
+Kn42217,Samantha Ferguson,1239.19,Asthma,2022-09-20,3,0,0,0
+JB92579,Susan Mcclain,2913.22,Fracture,2020-04-30,2,0,0,0
+ZJ72631,Ryan Cervantes,1032.38,Diabetes,2024-09-07,3,0,0,0
+Nz19221,Dr. Diana Dixon,2659.34,Cancer Treatment,2020-07-17,10,0,1,1
+Yu85371,Mary Patel,5404.88,Cancer Treatment,2023-12-17,9,0,1,1
+XN29042,John Love,2936.8,Cancer Treatment,2020-07-13,4,0,1,1
+En96436,Megan Kirk,2419.48,Surgery,2023-09-20,3,0,1,0
+Fh08049,Jose Johnson,1627.95,Surgery,2021-09-07,2,0,1,0
+XS04548,Adam Tapia,1872.54,Fracture,2023-08-03,1,0,0,0
+IG19406,Mandy Gardner,2519.76,Allergy,2021-04-12,3,0,0,0
+HK95575,Daniel Rubio,3088.11,Fracture,2023-07-19,3,0,0,0
+QD77716,Amy Haney,2437.62,Allergy,2021-07-27,9,0,0,1
+uU93170,Adrian Shepard,1776.34,Asthma,2025-02-24,2,0,0,0
+Pp46427,Angela Martin,6030.23,Allergy,2023-02-02,10,0,0,1
+xU55340,Annette Riley,2660.57,Diabetes,2022-03-13,3,0,0,0
+gp54700,Courtney Gonzalez,2750.96,Allergy,2020-12-07,3,0,0,0
+DP35033,Mark Andrade,2530.89,Diabetes,2022-03-10,2,0,0,0
+gT61154,Dylan Ross,1718.91,Allergy,2024-09-21,1,0,0,0
+CK32896,Katie Farley,6940.6,Surgery,2023-08-02,5,0,1,1
+dt29667,David Ryan,1564.16,COVID-19,2020-04-01,2,0,0,0
+lp11957,John Burke,5897.69,Surgery,2024-02-18,8,0,1,1
+jp74344,Jordan Hess,5192.79,Cancer Treatment,2024-10-04,5,0,1,1
+kU22108,Anna Brown,1923.31,Asthma,2021-07-12,3,0,0,0
+Ik28377,Diane Preston,1804.37,Flu,2023-12-24,1,0,0,0
+ua23635,Laura Olson,3834.13,Asthma,2021-07-17,10,0,0,1
+Kq34984,Katie Brown,1971.13,Allergy,2020-07-12,1,0,0,0
+ff76702,Douglas Rivers,5423.7,Surgery,2023-02-17,5,0,1,1
+xa77162,Daniel Elliott,2279.55,Cancer Treatment,2021-08-03,1,0,1,0
+PW54991,Nicole Raymond,452.47,Diabetes,2021-06-14,2,0,0,0
+tH94079,Derrick White,2712.94,Fracture,2020-06-25,10,0,0,1
+Fu15751,Angela Gordon,7306.97,Cancer Treatment,2023-08-09,4,1,1,1
+cx36909,Matthew Summers,1793.16,COVID-19,2023-12-21,3,0,0,0
+BM27457,Kimberly Vasquez,3711.21,COVID-19,2021-02-11,1,0,0,0
+sR43208,Sheila Hardin,1524.64,Surgery,2021-08-26,2,0,1,0
+op90986,Susan Miller,4790.48,Asthma,2022-11-30,8,0,0,1
+kb64642,Charles Richards,2050.64,Asthma,2022-12-15,3,0,0,0
+CM03379,Jonathan Cook,6636.3,COVID-19,2023-02-18,5,0,0,1
+OH27269,Melissa Cunningham,2996.33,Cancer Treatment,2024-09-05,3,0,1,0
+re01605,Deborah Peterson,2958.79,Surgery,2024-03-17,3,0,1,0
+Tj49676,Nathan Warner,1673.17,Surgery,2021-02-06,9,0,1,1
+nT26464,Michael Gutierrez,3242.35,Flu,2024-02-17,8,0,0,1
+WL24367,Tracy Berg,1183.4,Fracture,2021-10-24,2,0,0,0
+Pf17949,Dominic Jacobs,615.35,Hypertension,2021-09-13,2,0,0,0
+ik18547,Destiny Shelton,5412.72,Surgery,2023-08-10,10,0,1,1
+nr44702,Sean Henderson,6321.23,Surgery,2022-11-22,4,0,1,1
+Tp62964,Roger Lopez,6139.69,Cancer Treatment,2022-03-11,5,0,1,1
+qq63119,John Marks,4598.46,Surgery,2023-12-14,5,0,1,1
+pL03614,Jessica Hart,1933.03,Asthma,2023-05-01,2,0,0,0
+Ck58222,Amy Moore,1766.7,COVID-19,2021-02-13,2,0,0,0
+se81518,Ryan Anderson,5565.97,Hypertension,2021-04-27,4,0,0,1
+Bn33540,Emily Griffith,4467.86,Surgery,2021-02-28,6,0,1,1
+Qh74210,Pamela Hughes,6427.77,Cancer Treatment,2021-08-26,8,0,1,1
+tz24731,Cody Marshall DDS,2297.3,Diabetes,2023-02-21,2,0,0,0
+Iu31654,Anne Thomas,7825.13,Cancer Treatment,2024-02-06,6,1,1,1
+wl99061,Mr. Kevin Barnett MD,2933.38,Fracture,2020-04-30,1,0,0,0
+Ew69695,Benjamin Serrano,856.25,Fracture,2020-09-27,3,0,0,0
+Ep31415,Joseph Wilson,4637.86,Surgery,2021-04-30,7,0,1,1
+hn28295,Elizabeth French,1955.67,Diabetes,2023-03-20,1,0,0,0
+nR15588,Jenna Nelson,7538.72,Asthma,2020-11-04,8,1,0,1
+qE73531,Ronald Thomas,5614.72,Diabetes,2022-09-18,10,0,0,1
+ps80252,Ryan Moses,1807.33,Cancer Treatment,2023-07-14,1,0,1,0
+fT99415,Amanda Ward,2075.21,Cancer Treatment,2021-11-11,1,0,1,0
+Hb84930,Jody Long,1471.02,Surgery,2023-11-06,3,0,1,0
+pC83017,Ashley Stevens,2759.27,COVID-19,2021-05-27,2,0,0,0
+oU78722,Brandon Owens,2087.82,Migraine,2024-11-15,3,0,0,0
+Ki02665,Jesse King,6616.91,Surgery,2022-09-15,5,0,1,1
+ez10431,Jennifer Mcdaniel,6213.11,Surgery,2021-12-31,10,0,1,1
+oG11877,Steven Levy,1423.07,COVID-19,2022-05-20,1,0,0,0
+dj23060,Sarah Wright,6868.54,Cancer Treatment,2021-01-25,5,0,1,1
+Lt72885,Melissa Carson,1665.51,Fracture,2022-11-23,1,0,0,0
+kf76247,Kyle Ross,5379.61,Migraine,2020-09-07,9,0,0,1
+pf04180,Jennifer Brown,791.56,Cancer Treatment,2023-09-15,1,0,1,0
+Ux38510,Karen Johnson,4968.99,COVID-19,2024-11-16,9,0,0,1
+Ya42015,Michelle Quinn,1322.56,Asthma,2020-05-22,1,0,0,0
+ht17050,Michael Alvarado,3283.99,Allergy,2023-11-07,3,0,0,0
+TA88227,Aaron Mcfarland,2441.33,Flu,2020-05-16,1,0,0,0
+Dm09867,Anthony Turner,5478.66,Surgery,2023-10-29,5,0,1,1
+Lo92837,Lori Simpson,5074.02,Allergy,2021-01-19,6,0,0,1
+PO67848,Mr. Thomas Mccoy,1003.01,Fracture,2022-10-12,1,0,0,0
+af51071,William Taylor,2270.66,Surgery,2023-04-09,3,0,1,0
+fM03080,Anthony Christian,3218.5,Diabetes,2020-04-04,3,0,0,0
+sL02448,Michael Newton,3310.72,Surgery,2021-10-29,9,0,1,1
+bf97416,Christopher Lewis,4364.11,Fracture,2020-12-19,2,0,0,0
+kv22328,Matthew Taylor,1626.43,Fracture,2023-01-31,2,0,0,0
+YL05394,Jimmy Clark,2650.62,Surgery,2021-05-16,1,0,1,0
+Qf78499,Mary Wolfe,3024.38,Surgery,2021-02-13,2,0,1,0
+Si50306,Frank Rodriguez,5040.95,Cancer Treatment,2022-09-15,5,0,1,1
+gi09413,Janet Alvarez,2126.26,COVID-19,2023-11-14,1,0,0,0
+YT60501,Christopher Scott,2055.85,Cancer Treatment,2020-05-25,5,0,1,1
+Zr03311,Melissa Drake,1999.14,Asthma,2024-09-10,3,0,0,0
+rC48004,Charles Collins,2628.58,Cancer Treatment,2023-03-25,3,0,1,0
+sZ75764,Crystal Dalton,2129.73,Hypertension,2023-05-03,3,0,0,0
+Xn74523,Shannon Stevens,1338.09,Allergy,2023-05-17,2,0,0,0
+Hq95770,Karen Schwartz,962.11,Asthma,2024-05-25,1,0,0,0
+Fr97960,Bryan Warren,1423.43,Cancer Treatment,2024-01-11,3,0,1,0
+NN62348,Christina Sparks,1082.48,Flu,2023-01-18,2,0,0,0
+UW01385,Donna Thomas,2138.8,Cancer Treatment,2022-01-06,2,0,1,0
+yi62687,Mark Lopez,3060.87,Fracture,2024-10-07,3,0,0,0
+HQ64066,Monica Anderson,6325.85,Surgery,2023-04-09,5,0,1,1
+Hm06903,Donald Frederick,816.42,Diabetes,2021-10-31,1,0,0,0
+VI83326,Megan Hebert,2227.21,Diabetes,2023-09-16,2,0,0,0
+uU47848,Stephanie Murphy,4176.88,COVID-19,2022-11-05,3,0,0,0
+Tm45218,Cody Torres,5253.07,Cancer Treatment,2024-06-20,8,0,1,1
+LH51909,Pamela Duarte,1665.69,Flu,2022-12-14,2,0,0,0
+uP63664,Dr. Jessica Hernandez,4951.28,Cancer Treatment,2023-08-21,4,0,1,1
+xe12676,Jason Dunn,5074.69,Surgery,2020-08-22,10,0,1,1
+vV60616,Terry Holt,1112.2,COVID-19,2022-04-08,2,0,0,0
+Up56111,Alisha Mcconnell,4530.2,Surgery,2024-05-16,5,0,1,1
+Ws37168,Mr. Ryan Perez,4185.99,Cancer Treatment,2023-05-13,8,0,1,1
