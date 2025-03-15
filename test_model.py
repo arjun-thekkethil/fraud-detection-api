@@ -32,15 +32,14 @@ X_test_scaled = scaler.transform(X_test)
 
 # Make predictions
 y_pred = clf.predict(X_test_scaled)
-y_proba = clf.predict_proba(X_test_scaled)[:, 1]  # Get probability for AUC-ROC
+y_proba = clf.predict_proba(X_test_scaled)[:, 1]  
 
-# Evaluate model performance
+
 accuracy = accuracy_score(y_test, y_pred)
 auc_roc = roc_auc_score(y_test, y_proba)
 
 print(f"✅ Model Accuracy: {accuracy:.4f}")
-print(f"✅ AUC-ROC Score: {auc_roc:.4f}")  # AUC-ROC for better fraud detection evaluation
+print(f"✅ AUC-ROC Score: {auc_roc:.4f}")  
 
-# Show detailed classification report
 print("\nClassification Report:")
 print(classification_report(y_test, y_pred))
