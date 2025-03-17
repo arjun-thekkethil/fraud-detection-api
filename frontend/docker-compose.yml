@@ -1,0 +1,31 @@
+version: "3.9"
+
+services:
+  api_app:
+    build:
+      context: ./claim-backend
+    container_name: api_app
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./claim-backend:/app
+    depends_on:
+      - invoice_db
+    environment:
+      - DATABASE_URL=postgresql://postgres:newpassword@invoice_db:5432/invoice_db
+    restart: always
+
+  invoice_db:
+    image: postgres:13
+    container_name: invoice_db
+    environment:
+      POSTGRES_DB: invoice_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: newpassword
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+volumes:
+  postgres_data:
